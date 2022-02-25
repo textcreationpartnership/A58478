@@ -1,0 +1,4165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Religious-rebell, or, The pilgrim-prince a tragædy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58478</idno>
+            <idno type="STC">Wing R910</idno>
+            <idno type="STC">ESTC R14387</idno>
+            <idno type="EEBO-CITATION">13024568</idno>
+            <idno type="OCLC">ocm 13024568</idno>
+            <idno type="VID">96672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96672)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 398:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Religious-rebell, or, The pilgrim-prince a tragædy.</title>
+               </titleStmt>
+               <extent>[2], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page vignette.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Epilogue on p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry --  V, --  Holy Roman Emperor, 1086-1125 --  Drama.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96672:1"/>
+            <pb facs="tcp:96672:1" rendition="simple:additions"/>
+            <p>THE Religious-Rebell, OR THE Pilgrim-Prince. A TRAGAEDY.</p>
+            <p>Printed, <hi>Anno Dom.</hi> 1671.</p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:96672:2"/>
+            <head>Dramatis Perſonae.</head>
+            <list>
+               <item>
+                  <hi>Henry</hi> the Fourth Emperour of Germany.</item>
+               <item>His Sons.
+<list>
+                     <item>
+                        <hi>Henry</hi>
+                     </item>
+                     <item>
+                        <hi>Conrade</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Saxon Nobles
+<list>
+                     <item>
+                        <hi>Magnus</hi>
+                     </item>
+                     <item>
+                        <hi>Rodolphus</hi>
+                     </item>
+                     <item>
+                        <hi>Frederick</hi>
+                     </item>
+                     <item>
+                        <hi>Otho.</hi> 
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Hildebrand</hi> Pope <hi>Gregory</hi> the Seventh.</item>
+               <item>
+                  <hi>Victor</hi> A Cardinal.</item>
+               <item>Nobles of Italie.
+<list>
+                     <item>
+                        <hi>Prudentio</hi>
+                     </item>
+                     <item>
+                        <hi>Honorio</hi>
+                     </item>
+                     <item>
+                        <hi>Junio.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Brazutus,</hi> An Emperick.</item>
+               <item>
+                  <hi>Jocoſo</hi> his Man.</item>
+               <item>
+                  <hi>Cardinals.</hi>
+               </item>
+               <item>
+                  <hi>Fryers.</hi>
+               </item>
+               <item>
+                  <hi>Monks.</hi>
+               </item>
+               <item>
+                  <hi>A mixt company.</hi>
+               </item>
+               <item>
+                  <hi>Meſſengers.</hi>
+               </item>
+               <item>
+                  <hi>Souldiers.</hi>
+               </item>
+               <item>
+                  <hi>Officers.</hi>
+               </item>
+               <item> Women.
+<list>
+                     <item>
+                        <hi>Sophrona,</hi> The Empreſſe.</item>
+                     <item>
+                        <hi>Aurelia,</hi> Her Daughter.</item>
+                     <item>
+                        <hi>Sylvia,</hi> Her Maid of Honour.</item>
+                     <item>Madam <hi>Matilda,</hi> a great Court Lady:</item>
+                     <item>
+                        <hi>Ladies.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>The Scene,</hi> Germany.</p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:96672:2"/>
+            <div n="1" type="act">
+               <div n="1" type="scene">
+                  <head>
+                     <hi>Act.</hi> 1 <hi>Scen.</hi> 1.</head>
+                  <stage>Enter <hi>Hildebrand</hi> and <hi>Brazutus.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Hil.</speaker>
+                     <l>MAſs! thou haſt got a luckie hand <hi>Brazutus,</hi>
+                     </l>
+                     <l>The <hi>Septicollis</hi> now of <hi>Rome</hi> is levell'd,</l>
+                     <l>My way made even to St. <hi>Peters</hi> chair,</l>
+                     <l>The Popedome mine!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>God bleſs your Holineſs!</l>
+                     <l>Never had men quicker diſpatch to Heaven,</l>
+                     <l>(I Judge Sir) that thoſe ſeven your predeceſſors,</l>
+                     <l>Thanks to my luckey ſtarres, and pills! (then which</l>
+                     <l>There can be nothing more Infallible)</l>
+                     <l>(Your Holineſs excepted)</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hil.</speaker>
+                     <l>Here's my hand.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>Your Toe, good Sir, your Toe's too great a honour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hil.</speaker>
+                     <l>Murder as many as thou canſt, <hi>Brazutus,</hi>
+                     </l>
+                     <l>(Husband it likewiſe to thy beſt advantage,</l>
+                     <l>I know mens Deaths muſt be thy Livelyhood)</l>
+                     <l>You freely have my Diſpenſation for it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>All thanks, Sir,</l>
+                     <l>My ſtudy ſhall be to deſerve it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hil.</speaker>
+                     <l>Harke.</l>
+                     <stage>a ſhout within,</stage>
+                     <l>They come, I muſt retire.</l>
+                  </sp>
+                  <stage>Enter <hi>Cardinal Victor,</hi> with a Mitre, other <hi>Cardinals, Monks Fryers,</hi> with a mixt company.</stage>
+                  <sp>
+                     <speaker>Car.</speaker>
+                     <l>God ſave the Pope!</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>
+                        <hi>Peter</hi> th' Apoſtle chooſeth <hi>Hildebrand!</hi>
+                     </l>
+                     <stage>Exeunt, manet Brazutus.</stage>
+                  </sp>
+                  <stage>Enter to <hi>Brazutus, Jocoſo.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Jo.</speaker>
+                     <l>Maſter! the Kettle-drumms paſt by juſt now.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>Peace foole, thoſe were religious men, call'd <hi>Fryers.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Men! ſhave they for the ſcabb? or were half poyſon'd?</l>
+                     <l>Pox on the bungler! could his feeble doſſe,</l>
+                     <l>But fetch the hair off?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>No Jeſts now, <hi>Jocoſo.</hi>
+                     </l>
+                     <stage>Exit Jocoſo.</stage>
+                     <l>Haſten home, I am with you ſtraight; but firſt</l>
+                     <l>Will fetch my Patent, to prepare for travel:</l>
+                     <l>I cannot think it ſafe, abiding here,</l>
+                     <pb n="2" facs="tcp:96672:3"/>
+                     <l>So near the Pope, ſhould once his Magick prompt</l>
+                     <l>Him to beleive, ſome liberal bribes might tempt</l>
+                     <l>Me to ridd him hence (by one ſlight or other)</l>
+                     <l>(To make all ſure) he'd ſend me packing firſt.</l>
+                     <l>For all his fair pretenſes I confeſs,</l>
+                     <l>I dare not too much truſt his Holyneſs.</l>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>
+                     <hi>Act.</hi> 1. <hi>Scen.</hi> 2.</head>
+                  <stage>Enter <hi>Honorio, Prudentio,</hi> to them <hi>Junio:</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>How can the Emperour take this <hi>Prudentio:</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>Pride and Ambition ruines all the world.</l>
+                     <l>Truth, Sir, I fear 'twill breed bad bloud, if not</l>
+                     <l>Timely made up; He's a Prince wiſe and valiant,</l>
+                     <l>And wont be baulk'd thus of his ancient right.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>
+                        <hi>Hildebrand</hi> reckons all the Roman Empire,</l>
+                     <l>May I not ſay the the whole fourth Monarchie?</l>
+                     <l>For <hi>Peter's</hi> Patrimony, falling now,</l>
+                     <l>To him, whereof he will be ſole, ſupream;</l>
+                     <l>Making the Scepter level to his Mitre.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>Muſt none arrive to heaven without his leave,</l>
+                     <l>Nor yet poſſeſs the earth in any quiet?</l>
+                     <l>Would he be Metropolitane of both?</l>
+                     <l>I muſt confeſs, to men in Sacred Orders,</l>
+                     <l>We owe all love, awful reſpect and honour;</l>
+                     <l>Yet there are two extreams do ill become</l>
+                     <l>Their cloth <hi>Honorio,</hi> Pride and Poverty:</l>
+                     <l>I'de neither have them ſwell, nor ſtarve to death.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Here comes mad <hi>Junio.</hi>
+                     </l>
+                  </sp>
+                  <stage>Enter Junio.</stage>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>God ſave you, Sir!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Yours <hi>Prudentio, Honorio</hi> I am yours!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>
+                        <hi>Junio,</hi> ſweet <hi>Junio!</hi> prethee lad, what news?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Faith, that which makes me laugh, Sir, The new Pope</l>
+                     <l>(Talking againſt Maſſing-Preiſts Wives already:)</l>
+                     <l>Hath wrought the prettieſt different effect:</l>
+                     <l>Some ſtorme, and ſome are glad on't: The one ſwears</l>
+                     <l>(Should he nere uſe bead more) he'l never quit</l>
+                     <l>His pretty Bet<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y for an Ave Marie.</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h' other complains, Nets Lectures ſpoil his Sermons.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>Mad <hi>Junio</hi> ſtill. </l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Troth, I am ſerious, Sir.</l>
+                  </sp>
+                  <pb n="3" facs="tcp:96672:3"/>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Prethee ſpeak</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>I am, and can tell you further,</l>
+                     <l>Th' Arch-biſhops Grace of <hi>Mentz,</hi> the other day,</l>
+                     <l>Preſſing this Order, from his Holineſs,</l>
+                     <l>Narrowly ſcap'd his life.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>What project's this?</l>
+                     <l>I warrant you <hi>Prudentio,</hi> Some cunning</l>
+                     <l>Citizen Miſer (to preſerve his purſe)</l>
+                     <l>(Fearing leaſt his Impropriated Preiſt</l>
+                     <l>Might Marry, and ſo leave a pariſh charge)</l>
+                     <l>Hath put it in his head.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>With this perſwaſion.</l>
+                     <l>Moſt Benefic'd men dying Batchelours,</l>
+                     <l>Would make him Heir, and ſo enrich his See.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>I had almoſt forgot to tell you too:</l>
+                     <l>Thoſe who contrive the thriftieſt way to live,</l>
+                     <l>Think Wives, will be as cheap as Concubines.</l>
+                     <l>Cardinal <hi>Cremenſis</hi> the other day,</l>
+                     <l>(Arguing fiercely 'ganſt Prieſts-Matrimonie)</l>
+                     <l>Was catcht that night bedding a common ſtrumpet.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>I fear this deſign will but promote</l>
+                     <l>Luſts more, and ſecret Murders to conceal 'um.</l>
+                     <l>Reſtraint oft creates thoſe unruly paſſions,</l>
+                     <l>Which Freedom, ſlights.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>But Gentlemen! before</l>
+                     <l>We part let's claſh one pint of Wine together,</l>
+                     <l>I'le give you that ſhall be moſt excellent.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>All thanks kind <hi>Junio. Ho.</hi> We'll accept your proffer.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>With all my heart; now I could hugg you dearly.</l>
+                     <l>Let times go how they will, the Grape-juyce merits</l>
+                     <l>My praiſes ſtill, for that preſerves my ſpirits.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>Poetical!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Whether or no, you know it:</l>
+                     <l>The very thoughts of Sack will make a Poet.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Ha. ha. ha.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>
+                     <hi>Act.</hi> 1. <hi>Scen.</hi> 3.</head>
+                  <stage>
+                     <hi>Enter Emperour, Henry, Conrade, Attendants.</hi> to them <hi>Otho.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>It can't be born! Princes are things too holy</l>
+                     <l>For Popes to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oole: Hath kind fate bleſt me with</l>
+                     <pb n="4" facs="tcp:96672:4"/>
+                     <l>Such conqueſt o're the <hi>Saxons,</hi> and will this</l>
+                     <l>Religious Rebel, now ſpoyl all at home?</l>
+                     <l>To make a Pope without me, is all one</l>
+                     <l>As to unmake me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Henry.</speaker>
+                     <l>Sir, I thought that paſt</l>
+                     <stage>Off!</stage>
+                     <l>The reach of mortals, dare they ſnarch that Crown off,</l>
+                     <l>Which none, but a Divine hand ſetled on you?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>They had as good ſeek to unravel Heaven,</l>
+                     <l>And fetch the Diety thence.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>My Sons talk,</l>
+                     <l>As if deſcended, from Imperial Loines;</l>
+                     <l>But what wont human Impudence attempt,</l>
+                     <l>Spurr'd with ambition?</l>
+                     <stage>Enter Otho.</stage>
+                     <l>What meanes this haſte?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>
+                        <hi>Hildebrand</hi>'s Nuntio, is arriv'd, Sir, And—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>And what, Sends for my Scepter doth he not?</l>
+                     <l>May I nere more ask pardon of my ſins!</l>
+                     <l>If this ſteel doth not make him cry me mercy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>And ſo he doth, Sir, may it pleaſe your Highneſs!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>He ſhall know that there was a <hi>Caeſar</hi> long</l>
+                     <l>Before St. <hi>Peter,</hi> or his Succeſſor</l>
+                     <l>Were ever thought on. <hi>Otho.</hi> May it pleaſe your Highneſs!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>The Election of the Pope from <hi>Conſtantine</hi>
+                     </l>
+                     <l>Deſcended to Me, <hi>Otho,</hi> Reckon that.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>'Tis now Seven Hundred years agon, and upwards.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Nor ſhall this <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ome-Uſurper ſtand a day,</l>
+                     <l>Can I but once reach Italie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Pleaſe you —</l>
+                     <l>Sir, Hear me, <hi>Hildebrand</hi> is ſorry.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>How?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>For that he cannot, Sir, play <hi>Preſter John.</hi>
+                     </l>
+                     <l>Be Prince and Prelate too.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp,</speaker>
+                     <l>Grant he were ſo,</l>
+                     <l>Could it be thought theſe twins of government,</l>
+                     <l>Might ever wrangle in the ſelf-ſame breaſt</l>
+                     <l>For the Supremacy; It would be found,</l>
+                     <l>(I lay my life on't) that St. <hi>Peters</hi> Chair</l>
+                     <l>Muſt owe it ſelf upheld by <hi>Caeſars</hi> Throne.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Sir,—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>No Bull like the roaring Cannon, No</l>
+                     <pb n="5" facs="tcp:96672:4"/>
+                     <l>Anathama like a good Sword and Piſtol.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>I ſee I am ſtill diſturb'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Go on, <hi>Otho.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>For ought we hear, Sir, <hi>Hildibrand</hi> is ſorry,</l>
+                     <l>The lawleſs rout of common people ſhould</l>
+                     <l>Cry him up Pope: which Title he proteſts</l>
+                     <l>He ne're will own, Sir, without your Election.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>I hate this flattering.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>It takes too much.</l>
+                  </sp>
+                  <stage>aſide.</stage>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Till when he hath refus'd Inauguration.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Now thou ſaiſt ſomewhat.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>For this very purpoſe,</l>
+                     <l>Comes th'Embaſſie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>This is ſome ſatisfaction.</l>
+                     <l>Receive 'um, we will give 'um ſome Audience.</l>
+                  </sp>
+                  <stage>Exit Otho.</stage>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Were it not fit <hi>Hildebrand</hi> ſhould have made</l>
+                     <l>Moſt Royal, Sir, a Perſonal ſubmiſſion?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Proxy humilitie ſeems but preſumption.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>I ſee Youth's raſh and inconſiderate,</l>
+                     <l>It was the giddie factious multitude,</l>
+                     <l>Not he (my Boyes) intruded on my right.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>
+                        <hi>Con.</hi> Sir, we ſubmit.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Haſte then without delay,</l>
+                     <l>To grace the Entertainment.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Both.</speaker>
+                     <l>We obey.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>
+                     <hi>Act</hi> 1. <hi>Scen.</hi> 4.</head>
+                  <stage>Enter <hi>Rodolphus, Magnus, Frederick</hi> in Priſon.</stage>
+                  <sp>
+                     <speaker>Fred.</speaker>
+                     <l>And is the Emperours promiſe come to this?</l>
+                     <l>Is this his Liberty?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>A Princes word</l>
+                     <l>I took to be, as true as Heaven it ſelf.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ro.</speaker>
+                     <l>For this I'le n'ere believe a Conqueſt more,</l>
+                     <l>But what ſhall meet me over eares in bloud.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>'Twas not we feared death as to be thought</l>
+                     <l>Fooliſhly laviſh of our lives: to fight</l>
+                     <l>For that liberty, we might have with peace.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ro.</speaker>
+                     <l>Would we had dyed before we yeilded.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Fred.</speaker>
+                     <l>Hark! They ſing and dring within.</l>
+                  </sp>
+                  <pb n="6" facs="tcp:96672:5"/>
+                  <lg type="song">
+                     <head>A Song.</head>
+                     <l>
+                        <hi>Here's to that Noble Soul;</hi>
+                     </l>
+                     <l>
+                        <hi>Drowns his ſins in a Bowl;</hi>
+                     </l>
+                     <l>
+                        <hi>And cares not a fig for the Pope.</hi>
+                     </l>
+                     <l>
+                        <hi>Here's to him a full Glaſſs,</hi>
+                     </l>
+                     <l>
+                        <hi>That counts him an Aſſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Who will ſtinch at the ſight of the Rope.</hi>
+                     </l>
+                  </lg>
+                  <sp>
+                     <speaker>All within.</speaker>
+                     <l>Ho Boyes!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Firſt.</speaker>
+                     <l>A merry life and a ſhort.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2.</speaker>
+                     <l>About with it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>3.</speaker>
+                     <l>Where lyes the fault?</l>
+                  </sp>
+                  <sp>
+                     <speaker>1.</speaker>
+                     <l>
+                        <hi>Roger</hi> 'tis your liquor.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ro.</speaker>
+                     <l>O plague, I drank the very laſt but one,</l>
+                     <l>
+                        <hi>Ralph</hi> wants it.</l>
+                  </sp>
+                  <stage>They ſing agen.</stage>
+                  <sp>
+                     <speaker>Fred.</speaker>
+                     <l>O Brave Roarers! They know no other prayers.</l>
+                     <l>Theſe are their Mattins, and their Evening Songs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ro.</speaker>
+                     <l>Is there ſuch mirth in death?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Or are they rather</l>
+                     <l>Glad that the friendly Halter ſhortly will</l>
+                     <l>Free them from Goal, which I count worſe then death.</l>
+                     <l>VVhat man that hath that Noble thing call'd Soul</l>
+                     <l>But hates confinement? This whole world would be</l>
+                     <l>To narrow for him, were he alwaies tied to'r.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Fred.</speaker>
+                     <l>But theſe poor ſouls are hardned in their Irons.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ro.</speaker>
+                     <l>I was in hopes that breach like to have bin</l>
+                     <l>Betwixt the Emperour and the Pope of late,</l>
+                     <l>Would have made our way out</l>
+                  </sp>
+                  <sp>
+                     <speaker>Fred.</speaker>
+                     <l>But that's all daſh't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ro.</speaker>
+                     <l>Could not our old friend (<hi>Otho</hi> having got</l>
+                     <l>Into ſuch favour) do us here a kindneſs?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>We are but here kept like <hi>Weſt-Indian</hi> captives,</l>
+                     <l>To be devoured at ſome ſolemn meeting,</l>
+                     <l>With Mirth and Jollitie; endure't who liſt</l>
+                     <l>Let our wits work our freedom</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ro. Fred.</speaker>
+                     <l>We'l all aſſiſt.</l>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>
+                     <hi>Act.</hi> 1. <hi>Scen.</hi> 5.</head>
+                  <stage>Exeunt.</stage>
+                  <stage>Enter <hi>Aurelia, Silvia,</hi> to them <hi>Sophrona, Matilda, Attendants.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Au.</speaker>
+                     <l>May not one gueſſe affection by a glance?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Madam!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Au.</speaker>
+                     <l>'Twas but one look, and that look did it.</l>
+                     <l>Thoſe lights like <hi>Archimedes</hi> burning-glaſſe</l>
+                     <pb n="7" facs="tcp:96672:5"/>
+                     <l>Set me on Fire at that diſtance from him.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Your meaning, Madam.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>
+                        <hi>Sylvia,</hi> thou art dull,</l>
+                     <l>I ſee, for hadſt thou any ſence at all,</l>
+                     <l>How couldſt thou chooſe but feel the ſelf-ſame heat?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Explain your ſelf, pray Madam.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Then I will.</l>
+                     <l>I'me conquer'd by my Fathers Captive.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Which?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Now I could chide thee for a ſilly Gitle:</l>
+                     <l>Doſt ask me which?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>
+                        <hi>Otho</hi>'s fair, <hi>Frederick</hi> ſmiling.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>I ſee my errour. Love is ſuch a madneſs;</l>
+                     <l>What we love, we'd have all love; and yet can't</l>
+                     <l>Endure a Rival: Didſt not mind him <hi>Sylvia</hi>
+                     </l>
+                     <l>With the Majeſtick countenance? My love</l>
+                     <l>Is not Effeminate, although a Womans.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>
+                        <hi>Bold Magnus!</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker> Aur.</speaker>
+                     <l>
+                        <hi>Magnus!</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>In your cheeks I read it,</l>
+                     <l>That bluſh betraies you; He is—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Huſh the Empreſs.</l>
+                  </sp>
+                  <stage>Enter <hi>Empreſs, Matilda,</hi> Attendants.</stage>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>
+                        <hi>Aurelia!</hi> Why were you wanting at</l>
+                     <l>The ſport but now?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Madam I was juſt comming.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>'Twas excellent, I love to ſee men active.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>They're gon to viſit now the <hi>Saxon</hi> Captives,</l>
+                     <l>Nothing that's tending to your Fathers glory,</l>
+                     <l>Muſt be concealed from theſe noble ſtrangers.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Muſt <hi>Magnus</hi> make them ſport?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Pray Madam!</l>
+                  </sp>
+                  <stage>weeps aſide.</stage>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>What ſaith <hi>Aurelia?</hi> What's that <hi>Sylvia?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>She's ſorry, Madam, ſhe ſhould looſe the ſport.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>I thought 'twould trouble her, there's more behind,</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>But Madam, ſhall we never viſit <hi>Rome?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Sop.</speaker>
+                     <l>We may perchance, <hi>Matilda,</hi> danger it</l>
+                     <l>Now there is made this happy reconcilement.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>I long to ſee his Holyneſs, methinks</l>
+                     <l>I fancy moſt thoſe by Religion ty'd</l>
+                     <l>From luſt and wedlock; am (you muſt concieve)</l>
+                     <l>A chaſt Platonick Lover.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>What is that?</l>
+                     <l>To Love, to love, and not to enjoy?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Fruition</l>
+                     <l>Doth but allay thoſe hightned flames, which are</l>
+                     <l>The very life of love.</l>
+                  </sp>
+                  <pb n="8" facs="tcp:96672:6"/>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>I am but raw,</l>
+                     <l>(Yet give me leave) you ſeem, as if <hi>Matilda</hi>
+                     </l>
+                     <l>You own'd no Paradiſe to ſcorching <hi>Aetna.</hi>
+                     </l>
+                     <l>Platonick loves, (like Purgatorian ſires)</l>
+                     <l>Doe but prepare us for a perfect bliſſe,</l>
+                     <l>And make us worthy of a free poſſeſſion.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>
+                        <hi>Aurelia,</hi> have a care my Girle, I fear</l>
+                     <l>By your Romantick tongue, you may be ſmitten.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>If my diſcourſe offend (my Royal Mother)</l>
+                     <l>May I be ever ſilent rather then</l>
+                     <l>Provoke your hand.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>You do miſtake the Empreſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>No matter, keep her ſtill in Ignorance.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Ours is but talk, Madam, you'l pardon it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>It is Ingenious, I gladly could</l>
+                     <l>Hear more on't: but I dare believe by this</l>
+                     <l>They are return'd. 'Tis high time to be gon,</l>
+                     <l>We muſt be all there: This night puts anen'd</l>
+                     <l>To the Solemnity.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>We ſhall attend.</l>
+                  </sp>
+                  <stage>Finis Act. Primi.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <div n="1" type="scene">
+                  <head>Act. II. Scen. I.</head>
+                  <stage>Enter <hi>Pope, Card. Victor,</hi> other <hi>Cardinals,</hi> Attendants. The <hi>Pope</hi> aſcends his Chair.</stage>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>ict.</speaker>
+                     <l>God ſave Pope <hi>Gregory</hi> the Seventh! <hi>All.</hi> Long live!</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Card.</hi>
+                     </speaker>
+                     <l>
+                        <hi>Caeſar</hi> confirmes it!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Who's that mentions <hi>Caeſar?</hi>
+                     </l>
+                     <l>For Policie I did complie a while,</l>
+                     <l>It was but to procure the ſurer ground,</l>
+                     <l>To give the Emperour the ſtronger blow.</l>
+                     <l>Muſt <hi>Peter</hi> ſtoop to <hi>Caeſar?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Card.</hi>
+                     </speaker>
+                     <l>That reſts fully,</l>
+                     <l>
+                        <hi>Sir,</hi> in your Holineſs to remedy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>My Keys already look and unlock Heaven,</l>
+                     <l>And if they wont fit, I will add a ward</l>
+                     <l>Wherewith they ſhall ſerve Earthly Kingdoms,</l>
+                     <l>To make and unmake Princes at my pleaſure.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Vict.</speaker>
+                     <l>Nobly Reſolv'd, <hi>Sir,</hi> This will grace your See,</l>
+                     <l>With the more awe and ſplendour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Car.</hi>
+                     </speaker>
+                     <l>And reſtore</l>
+                     <l>Rome to itsformer fame, that it ſhall be</l>
+                     <l>Once more the worlds renown'd Metropolis.</l>
+                  </sp>
+                  <pb n="9" facs="tcp:96672:6"/>
+                  <sp>
+                     <speaker>1. <hi>Card.</hi>
+                     </speaker>
+                     <l>
+                        <hi>Henry</hi>'s accuſ'd—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>I may as well ask him</l>
+                     <l>Forgivneſs of my ſins, as to be Pope.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Card.</hi>
+                     </speaker>
+                     <l>He needeth pardon, Sir, or puniſhment,</l>
+                     <l>Who is ſo loudly tax'd for a truce-breaker.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Card.</hi>
+                     </speaker>
+                     <l>The <hi>Saxons</hi> gladly would help to depoſe him.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Card.</hi>
+                     </speaker>
+                     <l>A Tyrant.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Vict.</speaker>
+                     <l>Cruel, Symoniacal,</l>
+                     <l>A buiſie Bodger of Church-livings, Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>I hear enough: makes him uncapable,</l>
+                     <stage>ſtarts up.</stage>
+                     <l>Both of Heavens mercy, and of mans protection.</l>
+                     <l>Let him be Excommunicated! leſſe</l>
+                     <l>Cannot be done to him, doth ſo tranſgreſſe.</l>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>
+                     <hi>Act.</hi> 2. <hi>Scen.</hi> 2.</head>
+                  <stage>Enter <hi>Brazutus</hi> to him <hi>Jocoſo.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>All things ſucceed as well as heart could wiſh.</l>
+                  </sp>
+                  <stage>Enter <hi>Jocoſo</hi> telling Money,</stage>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>So, this is ſomewhat towards my Journey now.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>What haſt thou there <hi>Jocoſo?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Nothing Sir,</l>
+                     <l>But a peice for killing an good old woman,</l>
+                     <l>That did ſo lave the houſe ſtill with her noſe</l>
+                     <l>As ſhe ſwept it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>Didſt it accurately.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>To a hair, Sir, no Juggler ever playd</l>
+                     <l>Legerdemaine neater, then I ſhook that ſame</l>
+                     <l>Into her Hallow tooth.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>And is ſhe dead?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Dead, and at heaven I hope. Her ſon was mad</l>
+                     <l>For haſte to bury her the <hi>Ruſhian</hi> faſhion,</l>
+                     <l>With Hoſe and Shoes, ſhe was ſo troubleſome</l>
+                     <l>To the chymney-corner (he ſaid) and liv'd</l>
+                     <l>So unmercifully, to keep that little</l>
+                     <l>She had from him.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>'Twas he then gave the peice.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>It was, and to ſay truth, I well deſerv'd it.</l>
+                     <l>It did ſo plague me Sir, to hatch a cry,</l>
+                     <l>And pray an hours nonſence by the clock.</l>
+                     <l>I muſt not touch her, if I touch'd abook.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>I warrant 'twas one of thoſe good women</l>
+                     <l>That uſ'd to fetch an ill contrived ſigh</l>
+                     <l>At Church, in the wrong place; (not hearing well)</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>She was, all ſaid, hugely well given Sir,</l>
+                  </sp>
+                  <pb n="10" facs="tcp:96672:7"/>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>And ſo art thou, nay if thou canſt <hi>Jocoſo</hi>
+                     </l>
+                     <l>Fanatick-like, murder with prayers and teares,</l>
+                     <l>N'ere fear a livelyhood <hi>Joc.</hi> and when thy <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>orks done,</l>
+                     <l>My Fee will make me a Thanks-giving day.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>All ſuch odd jobs I give thee.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>I thank you Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>Come haſten, fetch our things, we muſt be gon.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>Now the Popes Licence without peradventure</l>
+                     <l>Will be excepted from the Emperour</l>
+                     <stage>Exit Joc.</stage>
+                     <l>To gain me leave, (ſince they are both agreed)</l>
+                     <l>To practice near his Court: My man may play</l>
+                     <l>At lower ſtakes, and kill men for a triſle:</l>
+                     <l>But where I venture Soul, Life and Eſtate,</l>
+                     <l>It ſhall, believe me, coſt a ſaucie rate.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>
+                     <hi>Act</hi> 2. <hi>Scen.</hi> 3.</head>
+                  <stage>Enter <hi>Prudentio, Honorio, Junio.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>What! we are likely to be all to peices</l>
+                     <l>Agen, <hi>Honorio,</hi> with the <hi>Emperour.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>So the newes goes, and the Popes Arrogance</l>
+                     <l>Hath raiſ'd a civil warre amongſt the Clergy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>I am reſolv'd I'le be of no religion</l>
+                     <l>Till all agree.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>I muſt confeſs theſe failings</l>
+                     <l>Shew they'r but men, but what they'd have us learn,</l>
+                     <l>Is of an higher and diviner nature,</l>
+                     <l>In that themſelves ſo hardly practice it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>I cannot blame the German Biſhops</l>
+                     <l>To ſtand for their cuſtome and prerogative.</l>
+                     <l>Is there no Patriarchal ſeat but Rome?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>I'me apt to think they ſhortly will determine</l>
+                     <l>No Baptiz'd Infant, ſhall be call'd a Chriſtian</l>
+                     <l>Except his Name be <hi>Peter.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Can there be</l>
+                     <l>Nothing decreed without the Pope <hi>Prudentio?</hi>
+                     </l>
+                     <l>Ought he, and only he, command a Council,</l>
+                     <l>How, where, and when, he pleaſe?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>This is in Truth,</l>
+                     <l>Novel Encroachment, and he's like to ſmart for't,</l>
+                     <l>Should the Prelates now joyn with th' Emperour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Would they were at it once.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Will you engage?</l>
+                  </sp>
+                  <pb n="11" facs="tcp:96672:7"/>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>There's nothing better, Boy, then Wars or Women,</l>
+                     <l>To tame this Fact, and I abhor a Miſtreſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>The better Warriour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Thoſe deſperate Dam-hims</l>
+                     <l>Who for a while may force the fare of Valour.</l>
+                     <l>To ſtand a prick or two in vindicating</l>
+                     <l>Their Ladyes naughty title to her Honour,</l>
+                     <l>(To gain ſome Commendation, or a kindneſs)</l>
+                     <l>Can never ſerve their Country worth a ruſh.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>Why now I like you: Gentlemen, your Hands,</l>
+                     <l>You'l ſide with me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Both.</speaker>
+                     <l>May we elſe never ſpeed:</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>Reſolve then for the Emperour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Both.</speaker>
+                     <l>Agreed.</l>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <head>Act. 2. Scen. 4.</head>
+                  <stage>Enter <hi>Magnus</hi> to him <hi>Otho, Frederick.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Can her ſoft nature ſport with th' afflicted?</l>
+                     <l>I'le never think it, this were to blaſpheme</l>
+                     <l>Thy love <hi>Aurelia!</hi> She comes.—</l>
+                  </sp>
+                  <stage>Enter <hi>Aurelia, Sylvia</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>I'le try him, <hi>Sylvia.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>'Tis prudence!</l>
+                  </sp>
+                  <stage>aſide.</stage>
+                  <sp>
+                     <speaker>Magnus!</speaker>
+                     <l>I bring enlargemen and delight to be</l>
+                     <l>The early meſſenger of welcome newes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>All thanks kind Princeſs: Madam you are noble:</l>
+                     <l>Your Preſence is a freedome.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Yours a Priſon.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>I ſee I was but mockt; What Scenes are theſe?</l>
+                     <l>Such Calmes and Tempeſts in the ſelf-ſame breath</l>
+                     <l>Am I offenſive?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>You have mov'd him Madam.</l>
+                  </sp>
+                  <stage>aſide.</stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Yes, and Love-Sympathy now makes me ſuffer</l>
+                     <l>A double torture, <hi>Magnus!</hi> Imuſt—</l>
+                  </sp>
+                  <stage>
+                     <hi>Drawes &amp; gives her his Sword. aſide to</hi> Silvia, <hi>gives him his Sword.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Here is a Weapon, if you muſt diſpatch me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>He ſtill miſaprenends me <hi>Sylvia,</hi>
+                     </l>
+                     <l>And how undauntedly he talks of death!</l>
+                     <l>Dear <hi>Magnus!</hi> ſheath, the Priſon that I talkt of</l>
+                     <l>Was nothing elſe but loves enſnarement.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Now,</l>
+                     <l>You ſurfet me with joy, tell't by peice-meales.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>My Fathers purpoſe is to ſet you free.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Magnus</speaker>
+                     <l>I owe it you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Heaven bleſs theſe meeting flames.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Some German Princes lately proving Rebels,</l>
+                     <l>Joyn with the <hi>Saxons</hi> now agen in Armes.</l>
+                  </sp>
+                  <pb n="12" facs="tcp:96672:8"/>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>You Noble <hi>Magnus</hi> muſt be one of us.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Swear Loyaltie t'aſſiſt the Emperour.</l>
+                     <l>Thy Valour's know.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>If I muſt take this oath,</l>
+                     <l>I'le go and bid the <hi>Saxons,</hi> fight and help 'um;</l>
+                     <l>And then return and willingly ſubmit</l>
+                     <l>To that juſt death my perjury deſerves.</l>
+                     <l>I'le prove as falſe to you, as to my Country.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Sir you'r unhandſome to your Princeſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Peace.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sylvia,</speaker>
+                     <l>what was't he ſaid? He'd prove as falſ</l>
+                     <l>To me as to his Country, was't not ſo?</l>
+                     <l>This is no ſlighting but doth argue rather</l>
+                     <l>That ſtrong and holy zeal he hath for both.</l>
+                     <l>I like him better for this Reſolution,</l>
+                     <l>His Conſtancy to me and that together</l>
+                     <l>Muſt ſind a way He may be falſ to neither.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="5" type="scene">
+                  <head>Act. 2. Scen. 5.</head>
+                  <stage>Enter <hi>Emperour, Sophrona, Matilda, Henry, Conrade, Otho.</hi> Attendants.</stage>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Were't not for theſe Apoſtatizing <hi>Germans</hi>
+                     </l>
+                     <l>The Pope ſhould feel by ſad Experience,</l>
+                     <l>No curſe ſo heavy, as a Princes anger.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Theſe Rebels muſt be look'd to timely Sir,</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>I firſt muſt make my peace with Rome; or elſe</l>
+                     <l>His Holyneſs will have in every Corner,</l>
+                     <l>Blind zealots, that will ſtrive by murdering me</l>
+                     <l>To merit Heaven:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>Can man be thought ſo ſtupid?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>O Madam! Ignorance leads to all miſcheif.</l>
+                     <l>This makes ſome bid good marrow to a Snaile,</l>
+                     <l>Or Serpent, and Adore 'um for that day;</l>
+                     <l>The Vulgar learn Rebellion ſtill without book,</l>
+                     <l>Which the Pope ſhuts and bids 'um read their Leſſons</l>
+                     <l>In his commands, which needs muſt be (he ſaith)</l>
+                     <l>Alwaies Infallible.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>I ſee <hi>Matilda,</hi>
+                     </l>
+                     <l>Thou art Ingenious, and talkſt handſomly.</l>
+                     <l>(<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ogether with the Empreſs) I have thought on</l>
+                     <l>Employment for you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sop.</speaker>
+                     <l>May we ſerve you Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Thus <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> I beg this Houour.</l>
+                  </sp>
+                  <pb n="13" facs="tcp:96672:8"/>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Riſe, 'tis granted.</l>
+                     <l>Haſt courage thinkſt, to face his Holyneſs?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Sop.</speaker>
+                     <l>Thou'rt like now to enjoy thy wiſh <hi>Matilda.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>You ſee, my Boyes, Princes are ſomtimes made</l>
+                     <l>The Tennis-balls of Fortune, to be bandy'd</l>
+                     <l>At her unconſtant pleaſure; now full fraught</l>
+                     <l>With good ſucceſs, ſoon after wrackt with croſſes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Sir! we are raſh and inconſiderate.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>He firſt uſurp'd the Mitre, then ask'd leave.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>My Children blame me <hi>Otho,</hi> that I did not</l>
+                     <l>Tread upon <hi>Hildebrands</hi> ſubmiſſive neck.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>You were more Noble, Sir, and Mercyful,</l>
+                     <l>Who could have thought on ſuch Hypocriſy?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>We muſt not now ſpend all our time in talk,</l>
+                     <l>
+                        <hi>Aurelia</hi> is to tender for this Journey.</l>
+                     <l>
+                        <hi>Henry,</hi> and <hi>Conrade,</hi> you'r iuclin'd to travel.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>We muſt Sir, if it be your Royal pleaſure.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>
+                        <hi>Sophrona,</hi> you, and you, <hi>Matilda</hi> ſhall</l>
+                     <l>Receive your charge anon.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Both.</speaker>
+                     <l>With diligence.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>
+                        <hi>Otho,</hi> to you we ſhall commend the care</l>
+                     <l>Of our affairs at Home.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>I ſhall be faithful.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>The Sun ſometimes is darkned with Ecclipſes;</l>
+                     <l>And the moſt fixed Stats do ſeem to twinkle;</l>
+                     <l>So muſt my ſplendour for a while be clouded:</l>
+                     <l>And I! The <hi>Pilgrim-Prince,</hi> now plainly ſhew,</l>
+                     <l>Monarchs, like Tides, do Ebb, as well as Flow.</l>
+                  </sp>
+                  <stage>Finis Act. Secundi.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <div n="1" type="scene">
+                  <head>Act. 3. Scen. 1,</head>
+                  <stage>Enter <hi>Aurelia, Sylvia,</hi> to them <hi>Otho, Magnus, Frederick, Rodolphus.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>The powers above muſt needs approve our love.</l>
+                     <l>Their ſecret wiſdome doth ſo proſper it.</l>
+                     <l>How Melancholy would the Court be now?</l>
+                     <l>Were it nor for, you know my meaning <hi>Sylvia.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Madam, for ſome divertiſement, let's go</l>
+                     <l>To ſee the Mask acted to day.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Agreed.</l>
+                     <l>And let us go diſguiſ'd without Attendants.</l>
+                  </sp>
+                  <stage>Enter <hi>Otho, Magnus, Erederick, Rodolphus.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>
+                        <hi>Aurelia</hi> you are Queen we'l only act</l>
+                     <pb n="14" facs="tcp:96672:9"/>
+                     <l>At your command, now in your Fathers abſence.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>You'r Gen'rous. Then my firſt endeavour's for</l>
+                     <l>Some worthy Honour on your Countrey men.</l>
+                     <l>(For your ſake <hi>Otho</hi>) what ſhall <hi>Magnus be?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Thanks to our Noble Viceroy, I enjoy,</l>
+                     <l>A Happineſs ample enough in my</l>
+                     <l>Freedome from Priſon, and that Oath I hated.</l>
+                     <l>But cheiſly, Madam, in your government.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>This is handſome, I fear I come to late.</l>
+                  </sp>
+                  <stage>aſide</stage>
+                  <sp>
+                     <speaker>Rod.</speaker>
+                     <l>What ſhall be <hi>Magnus?</hi> Nothing for <hi>Rodolphus.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Fred.</speaker>
+                     <l>Nor <hi>Frederick.</hi>
+                     </l>
+                  </sp>
+                  <stage>aſide</stage>
+                  <sp>
+                     <speaker>Rod.</speaker>
+                     <l>We'l make our ſelves, when once</l>
+                     <l>We come i'th' field, good <hi>Otho,</hi> give us quickly</l>
+                     <l>Some Martial Office or our Swords will ruſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>We'l meet to night (if it may pleaſe the Princeſs!)</l>
+                     <l>In Council, where we all may know our charge.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>You may Command it Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>We ſhall attend.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Madam you are forgetful.</l>
+                  </sp>
+                  <stage>ex. Fred. Mag. Rod.</stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Now we'l go.</l>
+                     <l>Moſt Noble Viceroy I muſt crave your leave</l>
+                     <l>This afternoon to take ſome private repaſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Madam, you degrade your ſelf to ask it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Au.</speaker>
+                     <l>I in my Fathers abſence owe you dutie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Might I entreat your Love it were an Honour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>You cannot chooſe but have it in obedience.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Adeiu ſweet Princeſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Both.</speaker>
+                     <l>Yours</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Farewell <hi>Sylvia.</hi>
+                     </l>
+                     <stage>Excunt Aur.</stage>
+                     <l>I am reſolv'd <hi>Harrie</hi> ſhall ne're come here,</l>
+                     <l>Nor his two Sons; yet we uſurpers love</l>
+                     <l>To guild our Titles with ſome ſhew of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ight.</l>
+                     <l>There is but one lett and I'le ſtraight remove it.</l>
+                     <l>
+                        <hi>Aurelia</hi> could I once make thee my own,</l>
+                     <l>I were for ever ſtabliſh'd in my Throne.</l>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>Act, 3. Scen. 2.</head>
+                  <stage>Enter <hi>Brazutus</hi> and <hi>Jocoſo,</hi> there appears an <hi>Apothecharies ſhop.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>Dull times <hi>Jocoſo.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>They can never hold.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>Why Prethee.</l>
+                  </sp>
+                  <pb n="15" facs="tcp:96672:9"/>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>I Faith if they do Maſter,</l>
+                     <l>I muſt like the <hi>Peruvian</hi> Cannibals,</l>
+                     <l>Feaſt it with mans fleſh, and it muſt be mine own.</l>
+                     <l>Cur Collops here, Sir, and be merry with 'um</l>
+                     <l>They'l aſt as long as I, and ther's an end.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>Thou talkſt too frolick, to be ſtarv'd <hi>Jocoſo.</hi>
+                     </l>
+                     <l>I am already got into their faſhion,</l>
+                     <l>Who make their meals either with Mear, or Drink,</l>
+                     <l>Not both together, our trade won't maintain it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>My takings are but ſmall, the warrs ſpoil all.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Pox on it, Men are grown both hard, and holy;</l>
+                     <l>I would now murder, half as cheap agen</l>
+                     <l>As I did formerly, to gain ſome cuſtome.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>My takings too lye all in Preſervations,</l>
+                     <l>Were it not for the <hi>French</hi>—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>I have obſerv'd</l>
+                     <l>That is the prettieſt ſtrang diſtemper Maſter,</l>
+                     <l>It like a cunning Gameſter hath its ſalf paſs,</l>
+                     <l>Makes at the lower parts, and hits the Noſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>And then there's fine work that will pay us well.</l>
+                     <l>T' erect a new bridg, or uphold the old one.</l>
+                     <l>Here comes a Cuſtomer.</l>
+                  </sp>
+                  <stage>Enter <hi>Otho.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>What want you Sir?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Dwells here <hi>Brazutus?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>There's my Maſter Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>A word or two in private.</l>
+                  </sp>
+                  <stage>They whiſper.</stage>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>I ſhall Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>O pox! I warrant he's pepper'd by's ſtradling.</l>
+                  </sp>
+                  <stage>Enter <hi>Aurelia, Sylvia,</hi> Diſguiſed.</stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Are we not ſomewhat of the lateſt <hi>Sylvia?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Madam, they ſay it don't begin till four.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Let us make haſte.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>What want you Ladies, pray?</l>
+                     <stage>They paſs by</stage>
+                     <l>Here dweleth that Renowned <hi>Don Brazutus,</hi>
+                     </l>
+                     <l>That moſt famous <hi>Italian</hi> Phyſitian.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Heaven bleſs me, is not <hi>Otho</hi> yonder whiſpering?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>The very ſame, what makes he here ſo private?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>I ſtrang! paſs on, he cannot know us <hi>Sylvia.</hi>
+                     </l>
+                  </sp>
+                  <stage>Ex. Aur. &amp; Sylvia.</stage>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Thoſe two paſt by, were pretty Girles I ſware</l>
+                     <pb n="16" facs="tcp:96672:10"/>
+                     <l>If thoſe Faces I ſaw were all their own.</l>
+                     <l>But if they were, they are not for our purpoſe:</l>
+                     <l>We cannot live, but by good Gentlewomen,</l>
+                     <l>That undreſs Nature, as they dreſs to bed.</l>
+                     <l>At night throw off their Perewigs, and their Noſes.</l>
+                     <l>Pull out their Teeth, and lay aſide their Eies.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>I warrant Sir.</l>
+                  </sp>
+                  <stage>Jocoſo orders his things in his ſhop.</stage>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>There is on other way</l>
+                     <l>But this to gain <hi>Aurelia,</hi> and prepare</l>
+                     <l>A free and valid paſſage to my ſuit.</l>
+                     <l>Her carriage I confeſs ſeems plauſible,</l>
+                     <stage>aſide</stage>
+                     <l>Yet it is nothing but Diſſimulation.</l>
+                     <l>Did not I ſee which way her amorous eye went,</l>
+                     <l>And how 'twas only fix'd on him? <hi>Brazutus,</hi>
+                     </l>
+                     <l>Be quick and private.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>As your own breaſt Sir.</l>
+                     <l>I am beholding to my good old Maſter.</l>
+                     <stage>Ex. Otho.</stage>
+                     <l>The Pope hath taught me here a bleſſed Leſſon.</l>
+                     <l>Now Mental Reſervation, ſaves my neck,</l>
+                     <l>And no way hurts my Purſe, I'le out with all:</l>
+                     <l>Should ſhe love <hi>Magnus,</hi> as I am perſwaded,</l>
+                     <l>
+                        <hi>Aurelia</hi>'s pay will excel that of <hi>Otho</hi>'s.</l>
+                     <l>
+                        <hi>Jocoſo,</hi> Let's go in I'le give thee, Boy,</l>
+                     <l>One point of Wine, to chear thee, theſe ſad times.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>My Maſter hath a peice, I warrant you</l>
+                     <stage>Ex. Brazutus.</stage>
+                     <l>He is ſo free, this look'd like a good chapman,</l>
+                     <l>A curſe upon this Primogeniture!</l>
+                     <l>But a few minutes create all this trouble;</l>
+                     <l>My Elder Brother carries all the Land,</l>
+                     <l>And I may feed on Gallipots, and glaſſes.</l>
+                     <l>Before I'le ſtarve thus like a ſilly Elfe,</l>
+                     <l>I am a Knave, if I don't Hang my ſelf</l>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>
+                     <hi>Act.</hi> 3. <hi>Scen.</hi> 3.</head>
+                  <stage>Enter <hi>Honorio, Prudentio, Junio.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>The Emperour's arriv'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Fully Incenſ'd I gueſs</l>
+                     <l>Againſt the Pope.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>We'l tame this mad uſurper.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>I wiſh, <hi>Honorio,</hi> this Religious Rebel,</l>
+                     <l>Were well chaſtiſ'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>If his Revenge be dull,</l>
+                     <l>We'l whet his ſword, Sir, with our active ſpirits.</l>
+                  </sp>
+                  <pb n="17" facs="tcp:96672:10"/>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>Firſt, we muſt underſtand the Princes mind,</l>
+                     <l>Before we be to forward, <hi>Junio.</hi>
+                     </l>
+                     <l>Only we'l give him leave to pick our meaning,</l>
+                     <l>And our deſignes, out of our coſtly banquets,</l>
+                     <l>And bounteous Entertainments.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>He ſhall read</l>
+                     <l>Theſe civil diſcords in the neat-wrought Sweet meats.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>I am not for theſe womans toyes, but if</l>
+                     <l>The Wine be good, I'le carouſe wholeones to Him,</l>
+                     <l>And Fancy the Pope merrily tumbling down.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Ha, ha, ha.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>This is a ſharp and bitter ſeaſon for 'um.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>I hear the Empreſs comes, and her two Sons</l>
+                     <l>With a moſt Noble Train of handſome Ladies.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>They do not come, I hope, to fight with theſe.</l>
+                     <l>If any thing doth make me run away,</l>
+                     <l>'Twill be a womans ſhreicks.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Ill, and harſh ſounds</l>
+                     <l>But you can't hear 'um, for the Drums and Trumpets.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>They will ſecure theſe in the <hi>Littadel.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Poor ſouls! It can't but be hard ſerviſe to 'um.</l>
+                     <l>They never ſaw ſuch weather in their Chambers,</l>
+                     <l>Which they do alwaies keep this winter quarters.</l>
+                     <l>They know no Snow, but what their Waſh-ball makes,</l>
+                     <l>Nor Ice, but curious artificial Jellies:</l>
+                     <l>Bold <hi>Boreas</hi> will diſturb this Lock, that Curle,</l>
+                     <l>So put them to't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Shame on their tenderneſs!</l>
+                     <l>If I marry it ſhall de ſome <hi>Amazon,</hi>
+                     </l>
+                     <l>Can fight with one hand, and give ſuck with t'other.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>For all your merry talking, Gentlemen,</l>
+                     <l>Let's not be tardy to ſalute the Prince.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>True, they deſerve our early loves. No age,</l>
+                     <l>Can Parrallel, this <hi>Royal Pilgrimage.</hi>
+                     </l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>
+                     <hi>Act.</hi> 3. <hi>Scen.</hi> 4.</head>
+                  <stage>Enter <hi>Pope, <g ref="char:V">Ʋ</g>ictor, Cardinals,</hi> Attendants.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>I'le be as frigid to him as the Alpes,</l>
+                     <l>And the deep winter, now they travel in.</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>ict.</speaker>
+                     <l>Make him your Slave, Dread Sir, to hold your Stirrop:</l>
+                     <l>Give him a good cuff if he don't do't right.</l>
+                  </sp>
+                  <pb n="18" facs="tcp:96672:11"/>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <l>Tread on him Sir, when you get up your Horſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>I now can make him any thing or nothing.</l>
+                     <l>Having him in a treble twiſt; I hear,</l>
+                     <l>The German Biſhops back my cenſure, and</l>
+                     <l>Their Princes wont comply, without my pardon.</l>
+                  </sp>
+                  <stage>Enter <hi>Second Cardinal.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Card.</speaker>
+                     <l>Sir The Embaſſy's come.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Admit them quickly,</l>
+                     <l>Their Sex commands civil Reſpect, from all.</l>
+                  </sp>
+                  <stage>Enter <hi>Sophia, Matilda,</hi> Ladies.</stage>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>Thus low we begg your Honour.</l>
+                  </sp>
+                  <stage>Sop. &amp; Mat. kneel &amp; kiſs his Toe.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Your Buſineſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>Your Emperour layes his Scepter at your feet.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>Is't come to this? It was but lately, I</l>
+                     <l>Muſt ask Him leave to put my Mitre on.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Sir, we appeal to you, as unto Heaven,</l>
+                     <l>For Clemency, abſtract from all revenge,</l>
+                     <l>Or any thought on't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>True. Yet ſinners muſt</l>
+                     <l>Know by our frowns wherein they have offended.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>This he doth well, Sir, and is humbled for it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>If there be merit (next your Holynes)</l>
+                     <l>What can be Higher then a Princes Faſting?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph,</speaker>
+                     <l>Three daies already, all diſrob'd, and bare-foot.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>We have paſſed through the Iſland Purgatory,</l>
+                     <l>In our cold progreſs; nor grudge we this penance,</l>
+                     <l>T'arrive at Bliſs, wee mean, your Holyneſs;</l>
+                     <l>Where 'twere not Venial now, to doubt of Mercy,</l>
+                     <l>For which I cannot but adore your preſence.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>She cannot be deny'd, this Ladies converſe</l>
+                     <l>Becomes a Patriarch, 'tis ſo ſublime:</l>
+                     <l>Let's go conferre about this buiſnes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>ict.</speaker>
+                     <l>Gladly.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>Madam, for your ſakes I will think upon</l>
+                     <l>Some termes of Pardon, (may they be accepted)</l>
+                     <l>You ſhall anon receive <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>um privately.</l>
+                  </sp>
+                  <sp>
+                     <speaker>So. Mat.</speaker>
+                     <l>You Crown our wiſhes.</l>
+                  </sp>
+                  <stage>Ex. Po. Car. Attend.</stage>
+                  <sp>
+                     <speaker>So.</speaker>
+                     <l>I'le run with this newes.</l>
+                  </sp>
+                  <stage>Exit Soph.</stage>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Privately! Let me ſee! a well-thought Lady,</l>
+                     <l>Muſt act a ſubtle niceneſs, to keep up</l>
+                     <l>Her reputation, whatſoere ſhe prove,</l>
+                     <pb n="19" facs="tcp:96672:11"/>
+                     <l>Were He another man, this might create</l>
+                     <l>An ill conception of me: but I hope</l>
+                     <l>There can be no ſuch danger, in the Pope,</l>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>
+                     <hi>Act.</hi> 1. <hi>Scen.</hi> 5.</head>
+                  <note place="margin">Exit.</note>
+                  <stage>Enter <hi>Henry, &amp; Conrade.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>I wonder <hi>Conrade,</hi> what th' effect will be.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Had I but had my wiſh, it never ſhould</l>
+                     <l>Have come to this.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>You ſee th' <hi>Italian</hi> Princes</l>
+                     <l>Receive us Nobly, take no notice, <hi>Conrade,</hi>
+                     </l>
+                     <l>At all, of th' Execration.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>I have that</l>
+                     <l>Within my breaſt, cannot abide there long:</l>
+                     <l>It ſwells to faſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Prethee declare what is it?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Will you ſwear ſecrecy, and courage then?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>I dare to you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>You ſhall be Emperour,</l>
+                     <l>My Father dotes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>We will divide this Honuor.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>I'le ask no more, and— They come.</l>
+                  </sp>
+                  <stage>Enter <hi>Pope, Victor, Cardinals, Sophrona, Matilda, Ladies, Attendants.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Let us ſtand here, this is the privateſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>Let him b' admitted with his Royal Habet,</l>
+                     <l>And order that a Banquet be prepar'd</l>
+                     <l>Without delay.</l>
+                  </sp>
+                  <stage>Ex. Card. aſide.</stage>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>That's better then his bleſſing.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>You ſee now Ladies, how my full deſires</l>
+                     <l>Do well concurre with yours in act of grace.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>Thanks to your Holyneſs we find it ſo.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>It well becomes, Sir, your Paternal Bowels.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>Your Honour, (with the Emperours Pietie)</l>
+                     <l>Doth ſtand engag'd, <hi>Matilda,</hi> to ſecure</l>
+                     <l>The Juſt performance of what's offered.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>VVhat'ere is mine, Sir, may it be thought worthy,</l>
+                     <l>I'le freely ſtake to have your will fullfil'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>I know thou 'rt Noble, if thou fancy'ſt <hi>Rome</hi>
+                     </l>
+                     <l>Command our Court.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>This is exact Love-talk.</l>
+                  </sp>
+                  <stage>aſids.</stage>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>In my heart the old fellow will prove wanton,</l>
+                  </sp>
+                  <pb n="20" facs="tcp:96672:12"/>
+                  <stage>Enter <hi>Emperour, Card. Banquet,</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>I muſt perforce awhile diſſemble it</l>
+                     <l>Thanks Holy Father.</l>
+                  </sp>
+                  <stage>aſide. kneels</stage>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>This is brave ſubmiſſion.</l>
+                  </sp>
+                  <stage>aſide.</stage>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>You have our Abſolution, and our Love.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Card.</speaker>
+                     <l>Heaven proſper, and continue theſe embraces!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>Let us refreſh our ſelves! Fall to, <hi>Matilda.</hi>
+                     </l>
+                     <l>
+                        <hi>Muſick playes and they ſing within.</hi>
+                     </l>
+                  </sp>
+                  <floatingText xml:lang="eng" type="song">
+                     <body>
+                        <lg>
+                           <head>A Song.</head>
+                           <l>
+                              <hi>Your Civil jarrs</hi>
+                           </l>
+                           <l>
+                              <hi>Are the worſt Warrs:</hi>
+                           </l>
+                           <l>
+                              <hi>But now ſuch dangers ceaſe:</hi>
+                           </l>
+                           <l>
+                              <hi>Thoſe Mortal Gods,</hi>
+                           </l>
+                           <l>
+                              <hi>That were at odds,</hi>
+                           </l>
+                           <l>
+                              <hi>Conclude an happie Peace.</hi>
+                           </l>
+                        </lg>
+                        <sp>
+                           <speaker>Cho.</speaker>
+                           <l>
+                              <hi>It is moſt pleaſant Harmonie,</hi>
+                           </l>
+                           <l>
+                              <hi>When Crown and Mitre do agree.</hi>
+                           </l>
+                           <l>
+                              <hi>We all then fear</hi>
+                           </l>
+                           <l>
+                              <hi>Sad darkneſs near,</hi>
+                           </l>
+                           <l>
+                              <hi>When Heaven's Two great Lights fight:</hi>
+                           </l>
+                           <l>
+                              <hi>Whil'ſt Prince and Pope</hi>
+                           </l>
+                           <l>
+                              <hi>Claſh; there's no hope,</hi>
+                           </l>
+                           <l>
+                              <hi>But the worlds fatal night.</hi>
+                           </l>
+                        </sp>
+                        <sp>
+                           <speaker>Cho.</speaker>
+                           <l>
+                              <hi>But 'tis moſt pleaſant Harmonie,</hi>
+                           </l>
+                           <l>
+                              <hi>When Crown and Mitre do agree.</hi>
+                           </l>
+                        </sp>
+                     </body>
+                  </floatingText>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>I ſee the Cardinals Caps are good for ſomwhat.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>They hold almoſt a Charger full of March-paines.</l>
+                  </sp>
+                  <stage>aſide</stage>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Your Bounty hath oblig'd us, Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>Accept it.</l>
+                     <l>Now our next buiſneſs, is to confirm all</l>
+                     <l>Before the Sacred Alter.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>We attend you.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>The face of things, methinks, ſeemes but untowardly,</l>
+                     <l>I do not like it, <hi>Conrade,</hi> Peace can never</l>
+                     <l>Sute with the nature, and complexion</l>
+                     <l>Of our deſignes, our ſport muſt be in Tempeſts.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>I warrant you, rather then baulk the action,</l>
+                     <l>If we find diſcords ſlow, we'l make a faction.</l>
+                  </sp>
+                  <trailer>Finis Act. Tertii.</trailer>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <div n="1" type="scene">
+                  <pb n="21" facs="tcp:96672:12"/>
+                  <head>
+                     <hi>Act.</hi> 4. <hi>Scen.</hi> 1.</head>
+                  <stage>Enter <hi>Brazutuss, Jocoſo,</hi> as on a Stage.</stage>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Now Maſter ther's hopes of a Trade agen,</l>
+                     <l>Things fadge ſo well at <hi>Rome.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>We ſhall anon</l>
+                     <l>Have company.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>I find the Market mends.</l>
+                     <l>The Clowns begin to draw their Cat-ſtring Purſes,</l>
+                     <l>And call ſo boldly for a Pot for <hi>Joane.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>They droop'd but now, I ſaw, moſt heavily,</l>
+                     <l>With their Chops leaning on their Staves, a liſtning,</l>
+                     <l>And enquiring of every one they met,</l>
+                     <l>Whether they thought this War would cauſe a Land Tax.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>But now they are as brisk.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>We'l try their Pockets.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>'Tis never well but when the Glove goes, Maſter.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>The Empreſs will I hear honour our ſport.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>I'le leap out of my skin, and in agen.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>I ſtrange they tarry.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Pox on't nothing, but</l>
+                     <l>Two bawling fellowes on a Ladder yonder,</l>
+                     <l>Detain 'um: now they come.</l>
+                  </sp>
+                  <stage>Enter <hi>a mixt company.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>1. <hi>Wo.</hi>
+                     </speaker>
+                     <l>Yonder he is.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Wo.</hi>
+                     </speaker>
+                     <l>Look, <hi>Jack</hi> ſhall ſee him.</l>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Wo.</hi>
+                     </speaker>
+                     <l>Poor Knave, what ailes He?</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Wo.</hi>
+                     </speaker>
+                     <l>Alaſs woman he hath had an Ague this ſix weeks.</l>
+                     <l>They ſay this Monſter-banke knowes what's good for't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <p>Gentlemen, <hi>By the help of a Divine hand, I can Cure all thoſe Diſtempers, mentioned in your Paper, I need not name them. Only I am to tell you, amongſt the reſt, there is a Rare</hi> Jeſuitical Powder, <hi>made of the skin of the Serpent the Devil poſſeſſed, when he ſeduced</hi> Eve. <hi>That out<g ref="char:EOLhyphen"/>wardly applyed, will charm away any Ague, be it</hi> Tertian, Quartan, <hi>on</hi> Quotidian.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Wo.</hi>
+                     </speaker>
+                     <l>I am glad of that.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <p>
+                        <hi>I purchaſ'd it by my Intimacy at Rome, the Great-great-grand<g ref="char:EOLhyphen"/>mother of all Antiquity. No one elſe hath it.</hi>
+                     </p>
+                     <p>Let's ſee <hi>Jocoſo.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Maſter mind me</l>
+                  </sp>
+                  <stage>Jocoſo gives him his things.</stage>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>The price of all my things.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Maſter my things!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <p>
+                        <hi>The price of all my things, with the Directory how to uſe them, is Three Shillings.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Maſter!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <p>
+                        <hi>But becauſe my time is not long with you, I ſhall in love give you ſix pence.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Maſter, my things!</l>
+                  </sp>
+                  <pb n="22" facs="tcp:96672:13"/>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <p>
+                        <hi>So that you ſhall have all mine, and</hi> Jocoſo<hi>'s for three ſhillings in the whole,</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <p>Gentlemen your Gloves.</p>
+                     <p>With my Balls you may ſcrub up old Cloathes and Faces, and make them look like new.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Wo.</hi>
+                     </speaker>
+                     <l>Give me the whole parcel.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Wo.</hi>
+                     </speaker>
+                     <l>And me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>3. </speaker>
+                     <l>And me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>My Balls help a wench to a husband quickly.</l>
+                     <l>The take away all ſcurff, ſcabs and wrinckles,</l>
+                     <l>redneſs, freckles, pimples, or any unhandſomneſs in the fleſh.</l>
+                  </sp>
+                  <stage>They throw up. their Gloves.</stage>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <p>Gentlemen, <hi>if any of you be rich enough for the Gout, you muſt know I wrought an incomparable Cure of this lately, in</hi> Italy, <hi>on the Popes great Toe.</hi>
+                     </p>
+                  </sp>
+                  <stage>Enter a <hi>Drunken-man</hi> reeling amongſt them.</stage>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>What's the matter?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Drunk.</speaker>
+                     <l>What a pox do all theſe Fooles harkning to a couple of Knaves?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>You make a gleak of us Gaffer.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Drunk.</speaker>
+                     <l>Are you minded to have your po. po. Pockets pickt?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>You'r an old Rogue.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>Friend, about your buiſneſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Drunk.</speaker>
+                     <l>Kiſs my Bumme.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Were I a little nearer, my foot ſhould ſweetly.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>Mind him not pray, He's Drunk, Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Drunk.</speaker>
+                     <l>Kiſs my Bumme!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>I'de drum a march on't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Drunk.</speaker>
+                     <l>Kiſs my Bu, Bu, Bumme!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>Good now be quiet.</l>
+                  </sp>
+                  <stage>Exit with Wo.</stage>
+                  <sp>
+                     <speaker>Bra.</speaker>
+                     <l>Were not this fellow drunk now, Gentlemen,</l>
+                     <l>I'de make him a ſad example, we come not</l>
+                     <l>Here, Sirs, without leave from the Emperour.</l>
+                     <l>And a full Licenſe from his Holineſs.</l>
+                     <l>Diſpatch <hi>Jocoſo.</hi>
+                     </l>
+                  </sp>
+                  <stage>Exit Bra.</stage>
+                  <stage>Enter on the Stage an old <hi>Woman</hi> holding her Teeth.</stage>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>I have done! Here com's an object of Charity.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>Pray Sir!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Set down good woman.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Which Tooth is it? She hath but that.</l>
+                  </sp>
+                  <stage>looks in her mouth.</stage>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>'Tis Ha, Hallow Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ioc.</speaker>
+                     <l>It makes your breath ſtinck.</l>
+                     <l>'Tis done.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>I find eaſe.</l>
+                  </sp>
+                  <stage>holds his Noſe.</stage>
+                  <sp>
+                     <speaker>Ioc.</speaker>
+                     <l>You have eaſ'd nature I think.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>
+                        <hi>ſmells the tooth.</hi>
+                     </l>
+                     <l>What muſt you have.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ioc.</speaker>
+                     <l>I have enough alreadie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>Pray Sir ſpeak!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ioc.</speaker>
+                     <l>Don't drop Curt'ſies ſo, for fear your Curt'ſies drop.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>I'de willingly content you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ioc.</speaker>
+                     <l>Good goodwife-houſe-of-Office do not follow me, ſo!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>You muſt ſpeak in my ear, Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ioc.</speaker>
+                     <l>Oh hell! muſt I come ſo near her. I'le have nothing Gammer!</l>
+                  </sp>
+                  <pb n="23" facs="tcp:96672:13"/>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>Thank you, Sir, I am deaf.</l>
+                  </sp>
+                  <stage>Exit Wo.</stage>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Pox on her, ſhe hath neither eares, nor noſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>Ha, ha, ha.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>This goes now 'mongſt my Regiment of Teeth.</l>
+                     <l>Each one (like thoſe, I read, which <hi>Cadmus</hi> ſow'd,</l>
+                     <l>May prove a Man of reputation.</l>
+                     <stage>pulls his cloath out &amp; ſhews it.</stage>
+                     <l>Do you not here, Sir, read a learned Artiſt,</l>
+                     <l>As well, as in thoſe ſixteen ſtragling Letters</l>
+                     <l>He brought to Greece? And now kind Gentlemen</l>
+                     <l>Be pleaſ'd to walk in, (Hang me if I lye)</l>
+                     <l>You ſhall ſee wonders of Activity.</l>
+                  </sp>
+                  <stage>Ex. Omnes.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>
+                     <hi>Act.</hi> 4. <hi>Scen.</hi> 2.</head>
+                  <stage>Enter <hi>Emperour, Prudentio, Honorio, Iunio.</hi> To them <hi>Henry, Conrade.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>For you we had deſign'd our lives and fortunes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>This is an everlaſting Infamie,</l>
+                     <l>Sir, to your Royal Empire.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>He's a Lecher.</l>
+                     <l>A murderer, and by lewd practiſes</l>
+                     <l>Set on the Papacie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Had my dull Braine,</l>
+                     <l>From your firſt kindneſs apprehended you,</l>
+                     <l>This nere had bin.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>In you were all our hopes,</l>
+                     <l>Whom we eſteem'd the Patron of all Juſtice,</l>
+                     <l>The Alter and ſole Bulwark of the Lawes</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>We valu'd not his Excommunication.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Thoſe civil diſcords of the German Prinsce</l>
+                     <l>Forc'd me to get this off, on ſuch conditions,</l>
+                     <l>Hell's Torment's nothing to 'um. I muſt ſtand</l>
+                     <l>To the Popes Judgment; Anſwer mine accuſers:</l>
+                     <l>If guilty, quietly reſign my Crowns,</l>
+                     <l>In the mean time, live privately: releaſe</l>
+                     <l>My Subjects from their Loyaltie, and Oath.</l>
+                     <l>And which is worſt, never attempt revenge.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>But that good manners here conſtrain'd a patience</l>
+                     <l>I had not heard you half out, 'twas ſuch pain.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>He ſtrives in all this but t' enſlave you to him.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>And works his pleaſure on you, thus diſarm'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>We'r Idle ſtill.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Our Swords ſhall cut this League.</l>
+                  </sp>
+                  <pb n="24" facs="tcp:96672:14"/>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>The Soul can be oblidg'd to nothing, but</l>
+                     <l>What's free, and voluntary.</l>
+                  </sp>
+                  <stage>Enter to them <hi>Henry, Conrade.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Sir, we hear</l>
+                     <l>
+                        <hi>Otho</hi> Rebels, and with a num'rous Army</l>
+                     <l>Bids you defiance.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Aided with <hi>Rodolphus.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>More Miſchief! Your aſſiſtance Gentlemen.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>'Tis ready, Sir, moſt willingly.</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <hi>Hen.</hi> &amp; <hi>Con.</hi>
+                     </speaker>
+                     <l>And ours.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Firſt we'l ſecure Home, next ſucceeds thy doome,</l>
+                     <l>Thy doome, Proud Metropolitan of <hi>Rome.</hi>
+                     </l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>Act. 4. Scen. 3.</head>
+                  <stage>Enter <hi>Matilda, Ladies.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Prepare all things in order for the Bath.</l>
+                     <l>I hope by this your perfect in your Task.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Lad.</hi>
+                     </speaker>
+                     <l>VVe are, Dear Madam, </l>
+                  </sp>
+                  <sp>
+                     <speaker>2. </speaker>
+                     <l>And are happy in 'um.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Obſerve your charge, I follow.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>We obey.</l>
+                  </sp>
+                  <stage>Ex. Ladies</stage>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>'Tis fine! the whole world is at my command.</l>
+                     <l>Although I cannot bear the name of Pope,</l>
+                     <l>I have the power fully, under him.</l>
+                     <l>This Duke, that Cardinal, this Lord, that Abbot,</l>
+                     <l>Are all my Creatures, owe me ſute and ſerviſe.</l>
+                     <l>All the Revenues of Rome's Mother-Church</l>
+                     <l>Are ſcarce enough now, to maintain a Miſtreſs.</l>
+                     <l>A Lady well dreſt, like a <hi>Perſ'an</hi> Madam</l>
+                     <l>VVares ſev'ral cityes on her; ſo muſt I.</l>
+                     <l>The <hi>Peter</hi> Pence will find me Pins and Laces.</l>
+                     <l>And —</l>
+                  </sp>
+                  <stage>Enter <hi>Pope.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Pope</speaker>
+                     <l>What alone, at thy private contemplations?</l>
+                     <l>Let none confeſs thee but my ſelf, <hi>Matilda.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Sir, you beſt know my ſecret paſſions.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Po.</speaker>
+                     <l>I doe, and can beſt pardon 'um.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <l>Your <hi>Cardinals.</hi>
+                     </l>
+                     <l>I muſt retire till anon.</l>
+                  </sp>
+                  <stage>Exit Matilda.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Your buiſneſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>ict.</speaker>
+                     <l>Sir, Th' Emperour is ſtarted from his Cov'nant</l>
+                     <l>Already, and with th' <hi>Italian</hi> Nobles</l>
+                     <l>Conſpire your ruine.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Moſt unheard of falſhood!</l>
+                     <l>We muſt beſtir us to be ready for 'um.</l>
+                     <l>Here now I want my good old Freind <hi>Brazutus.</hi>
+                     </l>
+                     <l>Can't we put confidence in Alter-vowes?</l>
+                     <l>Nay; If once ſuch Aſſurances be croſt</l>
+                     <l>As Theſe; I'le burn the conſecrated Hoſt.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <pb n="25" facs="tcp:96672:14"/>
+                  <head>
+                     <hi>Act.</hi> 4. <hi>Scen.</hi> 4.</head>
+                  <stage>Enter <hi>Otho, Frederick, Rodolphus.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Sirs, Now, now, let's behave our ſelves like men!</l>
+                     <l>The ſtak's the Cerman Empire, and we'l ſhare it,</l>
+                     <l>Amongſt us three: we'l ſhare it equallie.</l>
+                  </sp>
+                  <stage>Enter Above <hi>Emp. Hen. Con. Ho. Pru. Jun.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Will you yeild Traytors?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>If yo'have valour for it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Ye ſhall have mercy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ro.</speaker>
+                     <l>Dandle Fools and Children.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Fred.</speaker>
+                     <l>Kingdoms are more worth then to part with ſo.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>Force the doores open, Sirs.</l>
+                     <l>We have free entrance.</l>
+                  </sp>
+                  <stage>Enter above <hi>Magnus.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>
+                        <hi>Magnus</hi> is poyſon'd <hi>Otho,</hi> and his Ghoſt</l>
+                     <l>Comes to revenge his Death.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Villain, I am cheated.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Fred.</speaker>
+                     <l>We are betray'd!</l>
+                  </sp>
+                  <stage>A noiſe within, they run, they run, they run.</stage>
+                  <sp>
+                     <speaker>Ro.</speaker>
+                     <l>They come like lightning on us!</l>
+                  </sp>
+                  <stage>Enter <hi>Hen. Con. Mag.</hi> beating <hi>Otho, Fred. Rodolp.</hi> off the Stage,</stage>
+                  <stage>Ex. fighting.</stage>
+                  <sp>
+                     <speaker>Otho.</speaker>
+                     <l>Stand to't <hi>Rodolphus.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>Now</l>
+                  </sp>
+                  <stage>Enter <hi>Junio,</hi> and <hi>Honorio,</hi> with their Swords rawn.</stage>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Pox on't! they fled, fore I had half my ſill.</l>
+                     <l>Such wars as theſe ſtarve a good ſtomackt Sword</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>They had good Heels. The Emperour's ſafe I ſee.</l>
+                  </sp>
+                  <stage>Enter <hi>Emp.</hi> embracing <hi>Prudentio.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>
+                        <hi>Prudentio</hi> Thanks! Thanks to you Noble Sirs!</l>
+                     <l>To you we owe this conqueſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hon.</speaker>
+                     <l>To your Courage.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>And VViſdom, Sir, we muſt aſcribe this Honour.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Pox! 'Twas a skirmiſh not worth talking of.</l>
+                  </sp>
+                  <stage>Enter <hi>Magnus, Henry, Conrade.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>
+                        <hi>Magnus!</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>The Three-Head-Traytors have their due deſerts,</l>
+                     <l>
+                        <hi>Rodolphus,</hi> Sir, and <hi>Frederick</hi> are ſlain</l>
+                     <l>By the theſe your Noble Sons.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>VVas this your Act, My Boyes?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Faith fine Beginnings, Hah, <hi>Honorio.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>True.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Thanks to good Fortune, Sir.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>They're modeſt too.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Now Gentlemen, your ſwords have carv'd your way</l>
+                     <l>To a moſt free, and well-deſerved welcome,</l>
+                     <pb n="26" facs="tcp:96672:15"/>
+                     <l>To what 'ere <hi>Germany</hi> affords.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>All thanks.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>I long almoſt to ſee <hi>Aurelia.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>She'l not a little triumph at this news.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>
+                        <hi>Mag.</hi> Do you conduct the Empreſs to us.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Sir, I obey.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Let's go.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>We all attend.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <stage>Manet Henry, Conrade.</stage>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Ill luck, the old man ſcap'd ſo, were He dead</l>
+                     <l>We'd never talk of Primogeniture.</l>
+                     <l>But be ſworn Collegues in the Empire, <hi>Conrade.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Here we were forc'd to fight, to help to ſave him,</l>
+                     <l>We, and our hopes elſe had been loſt for ever,</l>
+                     <l>But now there is an other Warre behind,</l>
+                     <l>May order all things, <hi>Harrie,</hi> to our mind.</l>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>Act. 4. Scen. 5.</head>
+                  <stage>Enter <hi>Aurelia, Sylvia,</hi> Attendants</stage>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Are you reſolv'd to Antidate his death,</l>
+                     <l>And weep his Dirge, before hand, Madam?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>I ſaw him murder'd, in my dream laſt night,</l>
+                     <l>And felt the ſword that did it, <hi>Sylvia!</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Theſe be but idle Fancies; He's alive!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>He's run through (here I bleed) He's run through here!</l>
+                  </sp>
+                  <stage>ſtrikes her breaſt.</stage>
+                  <stage>Enter A Meſſenger.</stage>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>A Meſſenger! what Newes!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Meſſ.</speaker>
+                     <l>Where's the Princeſs?</l>
+                     <l>Madam!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>I have but a few minutes now!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Meſſ.</speaker>
+                     <l>Your Royal Father hath the Victory.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>How would I fain know, what I fear to know!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Meſſ.</speaker>
+                     <l>Madam! The Empreſs with the two young Princes</l>
+                     <l>Are ſafe returned.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Still Impertinent!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Meſs.</speaker>
+                     <l>And —</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Now it comes! quick rid me out of pain.</l>
+                     <l>Speak, how doth <hi>Magnus?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Meſſ.</speaker>
+                     <l>They are all at hand.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>He knows not <hi>Magnus,</hi> Madam! Now they come.</l>
+                  </sp>
+                  <stage>Enter <hi>Emp. Sophrona, Magnus, Prudentio, Honorio, Junio.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>And now I ſee him <hi>Sylvia,</hi> or his Ghoſt.</l>
+                     <l>Your Royal Bleſſings both!</l>
+                  </sp>
+                  <pb n="27" facs="tcp:96672:15"/>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>The Heavens preſerve</l>
+                     <l>My Dear <hi>Aurelia.</hi>
+                     </l>
+                  </sp>
+                  <stage>They all ſalute the Princeſs.</stage>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>How doſt, my Child?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Thanks Royal Mother: How is't <hi>Magnus?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>Sir, you much Honour us to ſhew ſuch Treaſure.</l>
+                  </sp>
+                  <stage>They talk together.</stage>
+                  <sp>
+                     <speaker>Hon.</speaker>
+                     <l>Is not ſhe tempting, <hi>Junio?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>In her Sex.</l>
+                     <l>You know I mind no face but what's in Breeches,</l>
+                     <l>And ſo may make a fit Companion,</l>
+                     <l>For <hi>Mars,</hi> or <hi>Bachus,</hi> Fighting, boy, or Drinking.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Sirs, you ſhall taſt our Liquor, and accept</l>
+                     <l>A large Heart, with a ſlender Entertainment.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>Oh Sir, you all oblige us by your kindneſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>'Twas to do ſomwhat that can ne're be done.</l>
+                     <stage>Exeunt.</stage>
+                     <l>'Twas to do ſomwhat to deſerve <hi>Aurelia</hi>
+                     </l>
+                     <l>And next you, to Revenge that Treacherie</l>
+                     <l>I alwaies hated.</l>
+                  </sp>
+                  <stage>Exit Magnus.</stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>You were ever Noble</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>
+                        <hi>Magnus</hi> is dead! don't he affright you Madam?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Surely thou art ſome Sybil, <hi>Sylvia.</hi>
+                     </l>
+                  </sp>
+                  <stage>Enter <hi>Hen. Conrade</hi>
+                  </stage>
+                  <l>My Brothers! Brothers!</l>
+                  <sp>
+                     <speaker>Bo.</speaker>
+                     <l>Lives <hi>Aurelia?</hi>
+                     </l>
+                     <l>And <hi>Sylvia</hi> too?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Welcome ſweet Princes!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>VVhat,</l>
+                     <l>You kil'd <hi>Rodolphus,</hi> and You <hi>Frederick.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>And <hi>Magnus, Otho.</hi> Now ſhe bluſhes <hi>Conrade.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>'Tis but your Fancy.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>VVe muſt not delay.</l>
+                     <l>They will but juſt recruit, and then for Rome.</l>
+                     <l>Come Siſter.</l>
+                  </sp>
+                  <stage>Ex. Hen. Conrade.</stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>VVe will follow. <hi>Sylvia!</hi>
+                     </l>
+                     <l>Compoſe thy ſelf for Mirth, Girle!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>I do, Madam,</l>
+                     <l>And am prepar'd to frolick, any how</l>
+                     <l>You ſhall Command.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>The Heavens n're ſmil'd, till now.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <trailer>Finis Act. Quinqui.</trailer>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <div n="1" type="scene">
+                  <pb n="28" facs="tcp:96672:16"/>
+                  <head>Act. 5. Scen. 1.</head>
+                  <stage>Enter. <hi>Emperour, Prudentio, Honorio, Junio, Henry, Conrade.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>
+                        <hi>Matilda!</hi> what means this? Read Gentlemen!</l>
+                     <stage>He reads a letter.</stage>
+                     <l>I am the Privy-Council of his breaſt</l>
+                     <l>(She writes) Beware <hi>Brazutus!</hi> I live yet,</l>
+                     <l>Free from all poyſon, don't I? Well <hi>Matilda,</hi>
+                     </l>
+                     <l>Shall not repent this kindneſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>This is he</l>
+                     <l>Poyſon'd Seven Popes to make uſe of this.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Lives here <hi>Brazutus?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>And his Man <hi>Jocoſo.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Beggarly Urchin! He'l kill any one,</l>
+                     <l>For a Pot, Ten-groats, and the dead corps in,</l>
+                     <l>To make ſome Mummia for th' Apothecaries.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Were they for this, thus long allow'd our Court?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Sir, This was he, that ſhould have poyſon'd <hi>Magnus.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>To you we leave th'inſpection of this buiſneſs</l>
+                     <l>Together <hi>Henry,</hi> with the government.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>I ſhall be Juſt, Sir, May you ſafe return!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Be mindful of your promiſe <hi>Hal.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Fear nothing.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>
+                        <hi>Conrade</hi> goes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>We ſhall miſs his Valour elſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Thanks for your Noble thoughts <hi>Prudentio.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>Would we could flie <hi>Honorio</hi> to the wars</l>
+                     <l>On ſome ſwift-whinged Horſes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>Oh brave <hi>Junio.</hi>
+                     </l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <stage>Manet Henry.</stage>
+                  <sp>
+                     <speaker>Hen,</speaker>
+                     <l>Farewel! From this time ſhall my Raign take date,</l>
+                     <l>Will <hi>Magnus</hi> ſecond now, this pleaſing Fate.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>
+                     <hi>Act.</hi> 5. <hi>Scen,</hi> 2.</head>
+                  <stage>Enter <hi>Magnus, Aurelia, Sylvia.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>I fear'd thee <hi>Magnus, Magnus</hi> I did.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Dear Madam!</l>
+                     <l>You that had got ſuch Intereſt in my heart,</l>
+                     <l>Methinks ſhould know what's in't. Ther's truth written,</l>
+                     <l>Not in dull Characters, but large, and laſting.</l>
+                  </sp>
+                  <pb n="29" facs="tcp:96672:16"/>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Enough!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Hymen cannot be wanting long.</l>
+                     <l>(Madam) That bluſh did well become a Lady,</l>
+                     <l>That muſt anon be chaſtly raviſhed.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>
+                        <hi>Sylvia,</hi> you talk. The Empreſs.</l>
+                  </sp>
+                  <stage>Enter <hi>Sophrona.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>Noble <hi>Magnus!</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Madam, was not your Journey tedious.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>'Twas.</l>
+                     <l>And now return'd we muſt confeſs, to you</l>
+                     <l>We owe our ſelves and Kingdoms, and that eaſe</l>
+                     <l>They do afford.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Didſt hear that <hi>Sylvia?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>This Honour juſtly appertains</l>
+                     <l>To th' Emperour, and Your Heroick ſons.</l>
+                     <l>Pray do 'um Juſtice.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>Courage never braggs.</l>
+                     <l>
+                        <hi>Harrie</hi> how is't.</l>
+                  </sp>
+                  <stage>Enter <hi>Henry</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>I left 'um well, and merry.</l>
+                     <l>
+                        <hi>Magnus</hi> a word or two with you, in ſecreet.</l>
+                  </sp>
+                  <stage>They whiſper.</stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>What's become of <hi>Matilda,</hi> Royal Mother?</l>
+                     <l>That I was thus forgetful, not to ask</l>
+                     <l>Till now.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>She's grown obſequious to the Pope,</l>
+                     <l>And wants for nothing.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur,</speaker>
+                     <l>Oh me! I thought him</l>
+                     <l>Still paſt a woman, by the Papian Law.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>She talk'd indeed at firſt Amorouſly</l>
+                     <l>Of the old Man.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>You ſay right <hi>Sylvia.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>
+                        <hi>Aurelia</hi>'s wiſe, chaſte, fair.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>I know all this,</l>
+                     <l>And yet I'le wedd my grave, firſt</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Farewel then.</l>
+                     <stage>Ex. Magnus.</stage>
+                     <l>Avoid the Court upon my high Diſpleaſure</l>
+                  </sp>
+                  <stage>Ex. Henry.</stage>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>They'r mov'd!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>What means all this?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soph.</speaker>
+                     <l>Let us enquire.</l>
+                  </sp>
+                  <stage>Exit</stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>My Joyes are Daſht ſtill, as they do begin</l>
+                     <l>The Sun but juſt appear'd, and is clapt in.</l>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <pb n="30" facs="tcp:96672:17"/>
+                  <head>
+                     <hi>Act.</hi> 5. <hi>Scen.</hi> 3.</head>
+                  <stage>Enter <hi>Matilda,</hi> and Ladies, Attendants.</stage>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>And let him flye! My pompe will be the ſame.</l>
+                     <l>(My hopes are built upon undoubted grounds:)</l>
+                     <l>
+                        <hi>Victor</hi> will be as good as <hi>Gregorie.</hi>
+                     </l>
+                     <l>Command the Card'nals to recieve my pleaſure.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Attend.</speaker>
+                     <l>We ſhall</l>
+                  </sp>
+                  <stage>Ex. Attend.</stage>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>How like you Sirs, my Dreſs to day?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lad.</speaker>
+                     <l>As it becomes the Empreſs of the world.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>I know no reaſon for the Salique Law,</l>
+                     <l>But that a woman may be fit to govern,</l>
+                     <l>Or why do Poets talk of <hi>Juno Pallas.</hi>
+                     </l>
+                     <l>Place pow'r and wiſdom in the Female Gender?</l>
+                     <l>Had not dame Nature cut us out to Rule,</l>
+                     <l>She never would have giv'n us ſuch deſires,</l>
+                     <l>We'l give men leave to think we think them wiſe,</l>
+                     <l>But yet we know our ſtrength: all States, and Perſons,</l>
+                     <l>(Act we diſcreetly) may be conquered</l>
+                     <l>By our well manag'd favours.</l>
+                  </sp>
+                  <l>
+                     <hi>Without. The day's our own.</hi>
+                  </l>
+                  <stage>Enter <hi>Emp. Prudentio, Hon. Jun. Souldiers.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Secure all there.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>The buiſneſs is effected.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>They can't be hir'd to turn agen: (Hare-like)</l>
+                     <l>One Run a Poſt down, with his eies behind.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <l>Make room-there, ſtand back</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hon.</speaker>
+                     <l>The Cardinals.</l>
+                  </sp>
+                  <stage>Enter <hi>Cardinals.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Great Sir! thus low accept my Loyalty.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp,</speaker>
+                     <l>
+                        <hi>Matilda,</hi> riſe, we have ſufficient proof of't.</l>
+                     <l>Fathful, and politick were thy deſignes</l>
+                     <l>To which we owe this bloudleſs victory.</l>
+                     <l>How may we now requite this love?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Our ſelves and ſervice, Sirs, muſt be our Princes</l>
+                     <l>Pure from all Mercenarie purpoſes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>True. Yet <hi>Matilda</hi> we muſt not diſcourage</l>
+                     <l>Our Subjects duties with Ingratitude.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mat.</speaker>
+                     <l>Then pleaſe me, Sir, in pleaſuring your ſelf,</l>
+                     <l>In the Election of a Worthy Pope.</l>
+                     <l>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>ictor</hi>'s demeanouors ſpeak him ſuch.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>We never</l>
+                     <l>Sir heard the contrary.</l>
+                  </sp>
+                  <pb n="31" facs="tcp:96672:17"/>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>I do approve him.</l>
+                  </sp>
+                  <stage>Victor and Matilda talk together.</stage>
+                  <sp>
+                     <speaker>Vict.</speaker>
+                     <l>Thanks mighty Prince!</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>God ſave Pope <hi>Victor</hi> the third.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>
+                        <hi>Hildebrand</hi>'s Name did Anagramatize</l>
+                     <l>His Nature, <hi>(I HEL-BRANDD)</hi> and ſo he was.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Ho.</speaker>
+                     <l>He was indeed the Worlds Incendiarie.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>A Legion Rebel, (in a wicked Pope)</l>
+                     <l>Muſt be a Complication of Traytors.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>He makes a thouſand hardy-Regicides</l>
+                     <l>With Pardons in their Pockets, and hopes of</l>
+                     <l>Immediate acceſs into Paradiſe:</l>
+                     <l>With a fair promiſe to be Canoniz'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jun.</speaker>
+                     <l>And then Men run on in their villainies</l>
+                     <l>As eagerly as e're the Pope run from us.</l>
+                     <l>Pox on him! now the warrs are done, and now</l>
+                     <l>We may make Muſtard with our Cannon-bullets,</l>
+                     <l>And ſtick our Swords up to hang Scare-crows on.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Vict.</speaker>
+                     <l>Will It pleaſe Caeſar now to grace our Court.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Emp.</speaker>
+                     <l>Thanks to Your Holyneſs. Come kind <hi>Matilda.</hi>
+                     </l>
+                     <l>Come Gentlemen, you ſhall participate.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pru.</speaker>
+                     <l>We ſhall attend.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>God ſave <hi>Caeſar</hi> and Pope <hi>Victor!</hi>
+                     </l>
+                  </sp>
+                  <stage>exeunt.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>Act. 5. Scen. 4.</head>
+                  <stage>Enter <hi>Conrade,</hi> Souldiers</stage>
+                  <stage>He looks on a Letter.</stage>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>My Revenge cannot ſtay the old mans pace.</l>
+                     <l>I look'd for all the Empire, half, was promiſ'd:</l>
+                     <l>And now he writes, I muſt ſubmiſſively</l>
+                     <l>Yeild to the Portion, of a Younger Brother:</l>
+                     <l>And wait the leiſure of the Deſtinies,</l>
+                     <l>Or never be admitted to his Court.</l>
+                     <l>Souldiers! reſt confident in my Rewards!</l>
+                     <l>And let them highly animate your courage!</l>
+                     <l>I will not make a meal, nor cloſe mine eyes,</l>
+                     <l>Until I'me Emperour of Germany.</l>
+                  </sp>
+                  <stage>Enter <hi>a Meſſenger.</hi>
+                  </stage>
+                  <l>What are you? Come, for Reconciliation?</l>
+                  <sp>
+                     <speaker>Meſſ.</speaker>
+                     <l>I come to tell you, Sir, Your Fathers dead.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Dead!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Meſſ.</speaker>
+                     <l>He no ſooner heard your Brothers aime,</l>
+                     <l>(But He reply'd) 'twas time he was Extinguiſh'd,</l>
+                     <l>Finding that ſhort life, he had yet behind</l>
+                     <pb n="32" facs="tcp:96672:18"/>
+                     <l>Burnt like a ſnuff, ſo noyſome to his iſſue,</l>
+                     <l>His own Son <hi>Henry!</hi> And with that, he funck.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Is he quite dead?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Meſſ.</speaker>
+                     <l>Dead.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Ther's one lett Remov'd.</l>
+                  </sp>
+                  <stage>A ſhout within.</stage>
+                  <l>They Come, let us prepare.</l>
+                  <stage>Enter <hi>Magnus</hi> and <hi>Souldiers.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Brave <hi>Conrade,</hi> yeild!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>How like a flattering Parret, the Foole talks!</l>
+                     <l>Brave <hi>Conrade!</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>'Tis your Elder Brothers Right.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Con.</speaker>
+                     <l>Pox on't! Can High and Noble Spirits, bent</l>
+                     <l>For a Kingdom, ſtand to tell firſt, and Second?</l>
+                     <l>Fight, Fight! I'le quickly make a younger Brother</l>
+                     <l>Of thee <hi>Magnus.</hi>
+                     </l>
+                  </sp>
+                  <stage>
+                     <hi>They all fight, Conrad's Souldiers are beaten off the Stage,</hi> Magnus <hi>kills</hi> Conrade.</stage>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>There was no way but death.</l>
+                  </sp>
+                  <stage>Enter <hi>Souldiers.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Soul.</speaker>
+                     <l>We have the Conqueſt, Sir, they are quite Routed.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Conveigh this Corps to Solemn Funeral,</l>
+                     <l>We cannot but Lament Bold <hi>Conrade</hi>'s Fall.</l>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>
+                     <hi>Act.</hi> 5. <hi>Scen.</hi> 5.</head>
+                  <stage>Enter <hi>Officers</hi> with <hi>Brazutus, Jocoſo,</hi> and a mixt Company</stage>
+                  <sp>
+                     <speaker>1. <hi>Off.</hi>
+                     </speaker>
+                     <l>Along, Along!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Braz.</speaker>
+                     <l>What are we apprehended for?</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Off.</hi>
+                     </speaker>
+                     <l>The Emperour will tell you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Off.</hi>
+                     </speaker>
+                     <l>Come along.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>So I can, you Hunger-ſtarved-Hound</l>
+                     <l>Without your Haleing.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Wo.</hi>
+                     </speaker>
+                     <l>They are very cheats.</l>
+                  </sp>
+                  <sp>
+                     <speaker>3. <hi>Wo.</hi>
+                     </speaker>
+                     <l>They mump'd poor Beſſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Wo.</hi>
+                     </speaker>
+                     <l>Their things w'ant worth a Farthing.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>Hang 'um, hang 'um they do but gull the Country.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Braz.</speaker>
+                     <l>This daies work ſhall coſt you dear.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Off.</hi>
+                     </speaker>
+                     <l>'Tmay coſt your life.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Braz.</speaker>
+                     <l>I had a Licenſe from His Royal Father:</l>
+                     <l>Nor will the Princeſs thank you for this rudeneſs.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Off.</hi>
+                     </speaker>
+                     <l>W'have order never fear't for what we do.</l>
+                  </sp>
+                  <pb n="33" facs="tcp:96672:18"/>
+                  <sp>
+                     <speaker>Braz.</speaker>
+                     <l>Y'have ſpoyl'd a Chymiſtrie coſt (God kowes what)</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Y'have brain'd the Gallipots, ye Rogues! the ſtuff</l>
+                     <l>Runs out, ſhall coſt you ſauce, I warrant you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Off.</hi>
+                     </speaker>
+                     <l>Come, come, a Halter will ſoon ſpoil your rayling.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>You may deſerve it firſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>Hang'um quick, Hang'um</l>
+                  </sp>
+                  <sp>
+                     <speaker>Off.</speaker>
+                     <l>Peace, The Emperour.</l>
+                  </sp>
+                  <stage>Enter <hi>Hen.</hi> Embracing <hi>Magnus,</hi> Attendants.</stage>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>Take heed you be'nt in the old womans pickle,</l>
+                     <l>By and by, Sirrah.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Go you Bob-tail'd Whores.</l>
+                  </sp>
+                  <stage>Ex. Women &amp; company.</stage>
+                  <sp>
+                     <speaker>Wo.</speaker>
+                     <l>You whore-ſon Arſe-gut!</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>Ha, ha, ha.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Off.</speaker>
+                     <l>Peace the Emperour</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>
+                        <hi>Magnus,</hi> I am oblig'd. —</l>
+                  </sp>
+                  <sp>
+                     <speaker>Off.</speaker>
+                     <l>Sir, here's the Priſ'ner.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>
+                        <hi>Brazutus!</hi> you endeavoured to poyſon</l>
+                     <l>Our Royal Father.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Braz.</speaker>
+                     <l>Sir, I'me ignorant.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>If you conceal't I ſhall the rather think it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Perhaps, <hi>Matilda</hi> might not ſend the Letter,</l>
+                     <l>Pope <hi>Gregorie</hi> intended for this purpoſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Confeſs all or elſe you dye.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>I n'ere, Sir, murder'd any in my life.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Braz.</speaker>
+                     <l>The old Woman. (I hate lying)</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>I did but faign that, Sir, to get his ſervice.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>How now <hi>Brazutus?</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Braz.</speaker>
+                     <l>Sir, this is but malice.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>If clear in this yet they may both be faulty.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Declare <hi>Brazutus</hi> what you're committed,</l>
+                     <l>And on a Princes word, you ſhall have mercy.</l>
+                     <l>(For your ſake <hi>Magnus</hi> and <hi>Aurelia</hi>'s.)</l>
+                  </sp>
+                  <sp>
+                     <speaker>Braz.</speaker>
+                     <l>If I am guilty, Sir, of this I'me tax'd of,</l>
+                     <l>May I for ever be debarr'd your bounty.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Speak all you know, or ever did, <hi>Jocoſo.</hi>
+                     </l>
+                     <l>If you'r found in a tittle falſ, you dye.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>I never murder'd any but my Mother,</l>
+                     <l>Which Nature had almoſt done to my Hand.</l>
+                     <l>Beſides it was my Elder Brothers doings.</l>
+                     <l>She liv'd ſo long He thought ſhe was Immortal.</l>
+                     <l>His mind was once, to try whether ſhe'd drown:</l>
+                     <l>But I was forc'd at laſt to doe her work</l>
+                     <l>For a mean Fee; I might have ſtarv'd elſe, Sir.</l>
+                     <l>Your mercy, Sir, your mercy!</l>
+                  </sp>
+                  <pb n="34" facs="tcp:96672:19"/>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Horrid Villain!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>But that your word joyn'd with the Jubilee</l>
+                     <l>Of your firſt Raign, pleads ſomewhat, Sir, for life,</l>
+                     <l>There could be no eſcaping of the Gallows:</l>
+                     <l>However pray think on ſome puniſhment</l>
+                     <l>That may be next to it.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Friends, hear your ſentence.</l>
+                     <l>
+                        <hi>Brazutus!</hi> You Equivocated with us,</l>
+                     <l>More then <hi>Jocoſo</hi> in your ſlie confeſſion.</l>
+                     <l>(Who poyſon'd a Septinary of Popes!</l>
+                     <l>Both ſhall live in perpetual Priſonment:</l>
+                     <l>look to them Officers, and ſee that daylie</l>
+                     <l>A hard allowance, mind them of their faults.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Off.</speaker>
+                     <l>Sir We obey.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. </speaker>
+                     <l>'Tis well yee ſcape ſo</l>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Off.</hi>
+                     </speaker>
+                     <l>Come my Friend, <hi>Jocoſo.</hi>
+                     </l>
+                  </sp>
+                  <stage>Exeunt Officers with Bra. &amp; Jocoſo.</stage>
+                  <sp>
+                     <speaker>Joc.</speaker>
+                     <l>Pox on your Frendſhip, would we n'ere had met!</l>
+                     <l>How Intimate I muſt be now with Hell!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Braz.</speaker>
+                     <l>The beſt on't is, old age, ill-uſ'd</l>
+                     <l>Can't ſuffer me, to be Tenant to a Priſon long!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>
+                        <hi>Magnus!</hi> whate're the German Empire now</l>
+                     <l>Rightly deſcended to me, will afford,</l>
+                     <l>Command it freely.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>May Heaven proſper <hi>Caeſar!</hi>
+                     </l>
+                  </sp>
+                  <stage>The Embrace.</stage>
+                  <stage>Enter <hi>Aurelia, Sylvia.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Look yonder <hi>Sylvia.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>I like this well.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>Muſt <hi>Magnus</hi> now be Baniſh'd?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>Sweet <hi>Aurelia!</hi>
+                     </l>
+                     <l>I can as ſoon be baniſh'd from my ſelf.</l>
+                     <l>(Give me leave Siſter) You will have a man,</l>
+                     <l>Made up of Love, of Juſtice, and of Honour.</l>
+                     <l>I might have call'd theſe Virtues into queſtion,</l>
+                     <l>Had he yeilded to me in hindering</l>
+                     <l>My Fathers Return, to his Empire: which</l>
+                     <l>None but the Fates prevented.</l>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <l>Heaven Bleſs <hi>Caeſar!</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>Next we muſt Palliate <hi>Sophrona</hi>'s greif.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>That muſt be <hi>Magnus</hi> in your Nuptials.</l>
+                     <l>Great Duke of Saxony! accept your Dutcheſs,</l>
+                     <l>Accept of your <hi>Aurelia!</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Aur.</speaker>
+                     <l>I flye to Him.</l>
+                  </sp>
+                  <pb n="35" facs="tcp:96672:19"/>
+                  <sp>
+                     <speaker>Syl.</speaker>
+                     <l>Bleſt pair, may yours no more prove <hi>April-joyes!</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Mag.</speaker>
+                     <l>We prize things moſt got through a world of Croſſes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Hen.</speaker>
+                     <l>When thoſe are quite blown over: and now may</l>
+                     <l>You (like the City <hi>Alexandria</hi>)</l>
+                     <l>Enjoy a conſtant Sun-ſhine ev'ry day!</l>
+                  </sp>
+                  <stage>Exeunt Omnes.</stage>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <pb facs="tcp:96672:20"/>
+            <pb facs="tcp:96672:20"/>
+            <head>EPIGOLUE.</head>
+            <lg>
+               <l>
+                  <hi>I am to tell you</hi> (Gentlemen!) <hi>The Play</hi>
+               </l>
+               <l>Caeſar<hi>'s ſad Tragoedie, you ſaw to day.</hi>
+               </l>
+               <l>
+                  <hi>Should any</hi> Momus <hi>crie, it can't be true.</hi>
+               </l>
+               <l>
+                  <hi>A man</hi> Religious, <hi>and a</hi> Rebel, <hi>too.</hi>
+               </l>
+               <l>
+                  <hi>Carp at the Title firſt, and next the Plot,</hi>
+               </l>
+               <l>
+                  <hi>And then the Sence, the Language, and what not!</hi>
+               </l>
+               <l>
+                  <hi>Condemn this Poyſon, this Luſt, and that Treaſon,</hi>
+               </l>
+               <l>
+                  <hi>And ſware, our</hi> Pilgrim-Prince <hi>can't ſtand to reaſon;</hi>
+               </l>
+               <l>
+                  <hi>(But as a Vulgar Errour ſtraight muſt be</hi>
+               </l>
+               <l>
+                  <hi>Damn'd with the</hi> Beliſarian <hi>Povertie.</hi>)</l>
+               <l>
+                  <hi>Our</hi> Poet <hi>doth confeſs, and 'tis His glory,</hi>
+               </l>
+               <l>
+                  <hi>He plaid the Theif, he ſaith, and ſtole the story</hi>
+               </l>
+               <l>
+                  <hi>From men of Trust, who write, the thing was ſo,</hi>
+               </l>
+               <l>
+                  <hi>Acted about Six Hundred years agoe.</hi>
+               </l>
+               <l>
+                  <hi>But yet all this won't do He understands,</hi>
+               </l>
+               <l>
+                  <hi>Nothing will paſs for good, without your Hands.</hi>
+               </l>
+               <l>
+                  <hi>For which great favour, (ſhe who did expreſs</hi>
+               </l>
+               <l>
+                  <hi>Her ſelf ſo handſome to his Holineſs.)</hi>
+               </l>
+               <l>—<hi>Witty</hi> Matilda <hi>pleads; and 'tis hard hap,</hi>
+               </l>
+               <l>
+                  <hi>If ſuch a freindly Girle don't get a clap.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:96672:21"/>
+            <pb facs="tcp:96672:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
